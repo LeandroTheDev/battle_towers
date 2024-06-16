@@ -1,0 +1,17 @@
+[
+  {
+    "op": "add",
+    "path": "/structures/-",
+    "value": {
+      "code": "surfacetowers",
+      "name": "Battle Tower / Surface",
+      "chance": 0.5,
+      "schematics": [
+        "surfacetowers/*"
+      ],
+      "rockTypeRemapGroup": "standard"
+    },
+    "file": "game:worldgen/structures.json",
+    "side": "Server"
+  }
+]

@@ -1,0 +1,542 @@
+{
+	"code": "loottreasures",
+	"class": "BlockLootVessel",
+	"behaviors": [
+		{
+			"name": "UnstableFalling"
+		}
+	],
+	"heldTpIdleAnimation": "holdunderarm",
+	"attributes": {
+		"handbook": {
+			"foundIn": "Battle Towers"
+		},
+		"lootTriesByType": {
+			"*-seed": 1,
+			"*-food": 1,
+			"*-forage": 2.5,
+			"*-ore": 1.35,
+			"*-tool": 2.2,
+			"*-farming": 2.5,
+			"*-arcticsupplies": 2.5
+		},
+		"lootListByType": {
+			"*-seed": [
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 5,
+					"maxQuantity": 7,
+					"codes": [
+						"seeds-carrot",
+						"seeds-onion",
+						"seeds-spelt",
+						"seeds-turnip",
+						"seeds-rice",
+						"seeds-rye",
+						"seeds-soybean",
+						"seeds-pumpkin",
+						"seeds-cabbage"
+					]
+				}
+			],
+			"*-food": [
+				{
+					"type": "item",
+					"chance": 3,
+					"minQuantity": 8,
+					"maxQuantity": 15,
+					"codes": [
+						"grain-spelt",
+						"grain-rice",
+						"grain-flax",
+						"grain-rye"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.1,
+					"minQuanity": 1,
+					"maxQuantity": 1,
+					"codes": [
+						"tuningcylinder-1",
+						"tuningcylinder-2",
+						"tuningcylinder-3",
+						"tuningcylinder-4",
+						"tuningcylinder-5",
+						"tuningcylinder-6",
+						"tuningcylinder-7",
+						"tuningcylinder-8",
+						"tuningcylinder-9"
+					]
+				}
+			],
+			"*-forage": [
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 2,
+					"maxQuantity": 6,
+					"codes": [
+						"flint"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 3,
+					"maxQuantity": 9,
+					"codes": [
+						"stick"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 3,
+					"maxQuantity": 16,
+					"codes": [
+						"drygrass"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 3,
+					"maxQuantity": 24,
+					"codes": [
+						"stone-andesite",
+						"stone-chalk",
+						"stone-claystone",
+						"stone-granite",
+						"stone-sandstone",
+						"stone-shale"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 3,
+					"maxQuantity": 24,
+					"codes": [
+						"clay-blue",
+						"clay-fire"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 3,
+					"maxQuantity": 24,
+					"codes": [
+						"cattailtops"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 1,
+					"maxQuantity": 4,
+					"codes": [
+						"poultice-linen-horsetail"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.5,
+					"minQuantity": 1,
+					"maxQuantity": 12,
+					"codes": [
+						"flaxfibers"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.3,
+					"minQuantity": 1,
+					"maxQuantity": 3,
+					"codes": [
+						"honeycomb"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.3,
+					"minQuantity": 2,
+					"maxQuantity": 6,
+					"codes": [
+						"bamboostakes"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.3,
+					"minQuantity": 2,
+					"maxQuantity": 6,
+					"codes": [
+						"beenade-closed"
+					]
+				}
+			],
+			"*-ore": [
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 2,
+					"maxQuantity": 12,
+					"codes": [
+						"ore-lignite",
+						"ore-bituminouscoal"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 2,
+					"maxQuantity": 8,
+					"codes": [
+						"nugget-nativecopper",
+						"ore-quartz",
+						"nugget-galena"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.2,
+					"minQuantity": 4,
+					"maxQuantity": 12,
+					"codes": [
+						"nugget-galena",
+						"nugget-cassiterite",
+						"nugget-sphalerite",
+						"nugget-bismuthinite"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.1,
+					"minQuantity": 4,
+					"maxQuantity": 12,
+					"codes": [
+						"nugget-limonite",
+						"nugget-nativegold",
+						"nugget-chromite",
+						"nugget-ilmenite",
+						"nugget-nativesilver",
+						"nugget-magnetite"
+					]
+				}
+			],
+			"*-tool": [
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"codes": [
+						"game:shield-metal"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"codes": [
+						"game:pickaxe-iron"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"codes": [
+						"game:blade-falx-blackbronze",
+						"game:shield-metal"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"codes": [
+						"game:axe-felling-iron",
+						"game:blade-falx-iron"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"codes": [
+						"game:shovel-copper"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"codes": [
+						"game:pickaxe-copper"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"codes": [
+						"game:blade-falx-copper"
+					]
+				}
+			],
+			"*-farming": [
+				{
+					"type": "item",
+					"chance": 0.1,
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"codes": [
+						"linensack"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.5,
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"codes": [
+						"basket"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.75,
+					"minQuantity": 3,
+					"maxQuantity": 10,
+					"codes": [
+						"feather"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.75,
+					"minQuantity": 2,
+					"maxQuantity": 10,
+					"codes": [
+						"flaxfibers"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.35,
+					"minQuantity": 2,
+					"maxQuantity": 10,
+					"codes": [
+						"flaxtwine"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.75,
+					"minQuantity": 2,
+					"maxQuantity": 4,
+					"codes": [
+						"seeds-cabbage"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.75,
+					"minQuantity": 5,
+					"maxQuantity": 10,
+					"codes": [
+						"cattailtops"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.1,
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"codes": [
+						"scythe-copper",
+						"scythe-tinbronze"
+					]
+				}
+			],
+			"*-arcticsupplies": [
+				{
+					"type": "item",
+					"chance": 1.5,
+					"minQuantity": 6,
+					"maxQuantity": 24,
+					"codes": [
+						"cattailtops"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1.5,
+					"minQuantity": 6,
+					"maxQuantity": 16,
+					"codes": [
+						"drygrass"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 4,
+					"maxQuantity": 7,
+					"codes": [
+						"flint"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 6,
+					"maxQuantity": 12,
+					"codes": [
+						"stick"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 10,
+					"maxQuantity": 24,
+					"codes": [
+						"stone-andesite",
+						"stone-chalk",
+						"stone-granite",
+						"stone-basalt"
+					]
+				},
+				{
+					"type": "block",
+					"chance": 1,
+					"minQuantity": 4,
+					"maxQuantity": 24,
+					"codes": [
+						"soil-medium-none"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 4,
+					"maxQuantity": 24,
+					"codes": [
+						"clay-blue",
+						"clay-fire"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.5,
+					"minQuantity": 1,
+					"maxQuantity": 4,
+					"codes": [
+						"poultice-linen-horsetail"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.5,
+					"minQuantity": 1,
+					"maxQuantity": 12,
+					"codes": [
+						"flaxfibers"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.3,
+					"minQuantity": 1,
+					"maxQuantity": 3,
+					"codes": [
+						"honeycomb"
+					]
+				},
+				{
+					"type": "item",
+					"chance": 0.1,
+					"minQuantity": 2,
+					"maxQuantity": 4,
+					"codes": [
+						"gear-rusty"
+					]
+				}
+			]
+		}
+	},
+	"variantgroups": [
+		{
+			"code": "loottype",
+			"states": [
+				"seed",
+				"food",
+				"forage",
+				"ore",
+				"tool",
+				"farming",
+				"arcticsupplies"
+			]
+		}
+	],
+	"shape": {
+		"base": "game:block/clay/lootvessel"
+	},
+	"blockmaterial": "Ceramic",
+	"creativeinventory": {
+		"general": [
+			"*"
+		],
+		"decorative": [
+			"*"
+		]
+	},
+	"replaceable": 1000,
+	"resistance": 0.45,
+	"maxStackSize": 4,
+	"lightAbsorption": 0,
+	"sounds": {
+		"walk": "game:walk/stone",
+		"break": "game:block/ceramicbreak",
+		"hit": "game:block/ceramicbreak",
+		"place": "game:block/ceramicplace"
+	},
+	"sideopaque": {
+		"all": false
+	},
+	"sidesolid": {
+		"all": false
+	},
+	"collisionSelectionBox": {
+		"x1": 0.125,
+		"y1": 0,
+		"z1": 0.125,
+		"x2": 0.875,
+		"y2": 1,
+		"z2": 0.875
+	},
+	"tpHandTransform": {
+		"translation": {
+			"x": -0.86,
+			"y": -0.37,
+			"z": -0.58
+		},
+		"rotation": {
+			"x": -33,
+			"y": -19,
+			"z": -107
+		},
+		"scale": 0.5
+	}
+}

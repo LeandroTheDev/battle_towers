@@ -1,0 +1,21 @@
+{
+  "Type": 1,
+  "TextureSize": 32,
+  "Name": "Battle Towers",
+  "Version": "1.0.0-pre.2",
+  "NetworkVersion": null,
+  "Description": "",
+  "Website": "",
+  "CoreMod": false,
+  "ModID": "battletowers",
+  "Authors": [
+    "BoboDev"
+  ],
+  "Contributors": [],
+  "Side": "Universal",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "Dependencies": {
+    "spawnersapi": ""
+  }
+}
