@@ -6,7 +6,7 @@ Generates dangerous Battle Towers to your world, every tower will have treasures
 Available Towers:
 - Surface Towers: 2
 - Underground Towers: 0
-- Surface Hard Towers: 0
+- Surface Hard Towers: 1
 - Underground Hard Towers: 0
 
 Future Features
