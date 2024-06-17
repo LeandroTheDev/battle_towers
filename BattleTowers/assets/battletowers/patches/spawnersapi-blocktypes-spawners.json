@@ -3,6 +3,12 @@
     "op": "add",
     "path": "/variantgroups/0/states/-",
     "value": "drifter-normal-surfacetowers",
-    "file": "spawnersapi:blocktypes/spawner.json",
+    "file": "spawnersapi:blocktypes/spawner.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "drifter-tainted-surfacetowers",
+    "file": "spawnersapi:blocktypes/spawner.json"
   }
 ]

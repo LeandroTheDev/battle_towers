@@ -1,7 +1,7 @@
 {
     "torchWillDisableSpawn": true,
     "entitiesToSpawn": [
-        "game:drifter-normal"
+        "game:drifter-tainted"
     ],
     "lightLevel1": 10,
     "lightLevel2": 15,
