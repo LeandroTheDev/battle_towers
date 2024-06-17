@@ -13,5 +13,20 @@
     },
     "file": "game:worldgen/structures.json",
     "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/structures/-",
+    "value": {
+      "code": "surfacehardtowers",
+      "name": "Battle Hard Tower / Surface",
+      "chance": 0.1,
+      "schematics": [
+        "surfacehardtowers/*"
+      ],
+      "rockTypeRemapGroup": "standard"
+    },
+    "file": "game:worldgen/structures.json",
+    "side": "Server"
   }
 ]

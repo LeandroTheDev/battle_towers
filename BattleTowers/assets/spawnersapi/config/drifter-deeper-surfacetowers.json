@@ -1,7 +1,7 @@
 {
     "torchWillDisableSpawn": true,
     "entitiesToSpawn": [
-        "game:drifter-deeper"
+        "game:drifter-deep"
     ],
     "lightLevel1": 10,
     "lightLevel2": 15,
@@ -9,9 +9,9 @@
     "lightLevel4": 30,
     "maxSpawnedEntities": 6,
     "maxEntitiesSpawnAtOnce": 2,
-    "xSpawnMaxDistance": 4,
+    "xSpawnMaxDistance": 3,
     "ySpawnMaxDistance": 2,
-    "zSpawnMaxDistance": 4,
+    "zSpawnMaxDistance": 3,
     "xPlayerDistanceToSpawn": 16,
     "yPlayerDistanceToSpawn": 10,
     "zPlayerDistanceToSpawn": 16,
