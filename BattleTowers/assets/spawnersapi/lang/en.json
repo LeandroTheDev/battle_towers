@@ -1,3 +1,8 @@
 {
-	"spawnersapi:block-spawner-drifter-normal-surfacetowers": "Drifter Spawner Surface Tower"
+	"spawnersapi:block-spawner-drifter-normal-surfacetowers": "Drifter Spawner Surface Tower",
+	"spawnersapi:block-spawner-drifter-tainted-surfacetowers": "Tainted Drifter Spawner Surface Tower",
+	"spawnersapi:block-spawner-drifter-corrupt-surfacetowers": "Corrupt Drifter Spawner Surface Tower",
+	"spawnersapi:block-spawner-drifter-deeper-surfacetowers": "Deeper Drifter Spawner Surface Tower",
+	"spawnersapi:block-spawner-drifter-nightmare-surfacetowers": "Nightmare Drifter Spawner Surface Tower",
+	"spawnersapi:block-spawner-drifter-double-headed-surfacetowers": "Double Headed Drifter Spawner Surface Tower"
 }

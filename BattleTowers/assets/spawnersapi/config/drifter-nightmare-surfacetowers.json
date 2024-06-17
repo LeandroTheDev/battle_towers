@@ -1,0 +1,20 @@
+{
+    "torchWillDisableSpawn": true,
+    "entitiesToSpawn": [
+        "game:drifter-nightmare"
+    ],
+    "lightLevel1": 10,
+    "lightLevel2": 15,
+    "lightLevel3": 25,
+    "lightLevel4": 30,
+    "maxSpawnedEntities": 6,
+    "maxEntitiesSpawnAtOnce": 2,
+    "xSpawnMaxDistance": 4,
+    "ySpawnMaxDistance": 2,
+    "zSpawnMaxDistance": 4,
+    "xPlayerDistanceToSpawn": 16,
+    "yPlayerDistanceToSpawn": 10,
+    "zPlayerDistanceToSpawn": 16,
+    "maxChancesToFindAValidBlockToSpawn": 10,
+    "extendedLogs": false
+}

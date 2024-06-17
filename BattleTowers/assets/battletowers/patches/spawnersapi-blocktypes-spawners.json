@@ -10,5 +10,29 @@
     "path": "/variantgroups/0/states/-",
     "value": "drifter-tainted-surfacetowers",
     "file": "spawnersapi:blocktypes/spawner.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "drifter-deeper-surfacetowers",
+    "file": "spawnersapi:blocktypes/spawner.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "drifter-corrupt-surfacetowers",
+    "file": "spawnersapi:blocktypes/spawner.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "drifter-nightmare-surfacetowers",
+    "file": "spawnersapi:blocktypes/spawner.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "drifter-double-headed-surfacetowers",
+    "file": "spawnersapi:blocktypes/spawner.json"
   }
 ]

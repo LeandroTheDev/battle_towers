@@ -20,337 +20,349 @@
 		},
 		"lootListByType": {
 			"*-tier1": [
+				// Resources
 				{
 					"type": "item",
 					"chance": 1,
 					"minQuantity": 1,
-					"maxQuantity": 1,
+					"maxQuantity": 5,
 					"codes": [
-						"game:shield-metal"
+						"game:flint",
+						"game:flaxfibers",
+						"game:flaxwine"
+					]
+				},
+				// Resources Better
+				{
+					"type": "item",
+					"chance": 0.4,
+					"minQuantity": 5,
+					"maxQuantity": 10,
+					"codes": [
+						"game:nugget-nativecopper"
 					]
 				},
 				{
 					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
+					"chance": 0.4,
+					"minQuantity": 5,
+					"maxQuantity": 10,
 					"codes": [
-						"game:pickaxe-iron"
+						"game:nugget-cassiterite"
 					]
 				},
 				{
 					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
+					"chance": 0.4,
+					"minQuantity": 5,
+					"maxQuantity": 10,
 					"codes": [
-						"game:blade-falx-blackbronze",
-						"game:shield-metal"
+						"game:arrow-flint"
 					]
 				},
+				// Clothes
 				{
 					"type": "item",
-					"chance": 1,
+					"chance": 0.5,
 					"minQuantity": 1,
 					"maxQuantity": 1,
 					"codes": [
-						"game:axe-felling-iron",
-						"game:blade-falx-iron"
+						"game:clothes-head-rotwalker",
+						"game:clothes-foot-rotwalker",
+						"game:clothes-lowerbody-rotwalker",
+						"game:clothes-shoulder-rotwalker",
+						"game:clothes-upperbodyover-rotwalker"
 					]
 				},
+				// Weapons
 				{
 					"type": "item",
-					"chance": 1,
+					"chance": 0.4,
 					"minQuantity": 1,
 					"maxQuantity": 1,
 					"codes": [
-						"game:shovel-copper"
-					]
-				},
-				{
-					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
-					"codes": [
-						"game:pickaxe-copper"
-					]
-				},
-				{
-					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
-					"codes": [
-						"game:blade-falx-copper"
+						"game:bow-simple",
+						"game:spear-generic-flint",
+						"game:club-scrap-scrap",
+						"game:shield-woodmetal"
 					]
 				}
 			],
 			"*-tier2": [
+				// Resources
 				{
 					"type": "item",
 					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
+					"minQuantity": 5,
+					"maxQuantity": 5,
 					"codes": [
-						"game:shield-metal"
+						"game:flaxwine",
+						"game:flaxfibers",
+						"game:leather-plain"
+					]
+				},
+				// Resources Better
+				{
+					"type": "item",
+					"chance": 0.4,
+					"minQuantity": 7,
+					"maxQuantity": 15,
+					"codes": [
+						"game:nugget-nativecopper"
 					]
 				},
 				{
 					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
+					"chance": 0.4,
+					"minQuantity": 7,
+					"maxQuantity": 15,
 					"codes": [
-						"game:pickaxe-iron"
+						"game:nugget-cassiterite"
 					]
 				},
 				{
 					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
+					"chance": 0.4,
+					"minQuantity": 7,
+					"maxQuantity": 15,
 					"codes": [
-						"game:blade-falx-blackbronze",
-						"game:shield-metal"
+						"game:arrow-flint"
 					]
 				},
 				{
 					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
+					"chance": 0.4,
+					"minQuantity": 7,
+					"maxQuantity": 15,
 					"codes": [
-						"game:axe-felling-iron",
-						"game:blade-falx-iron"
+						"game:ore-bituminouscoal"
 					]
 				},
 				{
 					"type": "item",
-					"chance": 1,
+					"chance": 0.1,
 					"minQuantity": 1,
 					"maxQuantity": 1,
 					"codes": [
-						"game:shovel-copper"
+						"game:gear-temporal"
 					]
 				},
+				// Clothes
 				{
 					"type": "item",
-					"chance": 1,
+					"chance": 0.5,
 					"minQuantity": 1,
 					"maxQuantity": 1,
 					"codes": [
-						"game:pickaxe-copper"
+						"game:clothes-arm-leather-bracers",
+						"game:armor-head-sewn-leather",
+						"game:armor-body-sewn-leather",
+						"game:armor-legs-sewn-leather",
+						"game:hunterbackpack"
 					]
 				},
+				// Weapons
 				{
 					"type": "item",
-					"chance": 1,
+					"chance": 0.3,
 					"minQuantity": 1,
 					"maxQuantity": 1,
 					"codes": [
-						"game:blade-falx-copper"
+						"game:bow-simple",
+						"game:spear-generic-copper",
+						"game:blade-falx-copper",
+						"game:shield-woodmetal"
 					]
 				}
 			],
 			"*-tier3": [
+				// Resources
 				{
 					"type": "item",
 					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
+					"minQuantity": 2,
+					"maxQuantity": 5,
 					"codes": [
-						"game:shield-metal"
+						"game:leather-plain"
+					]
+				},
+				// Resources Better
+				{
+					"type": "item",
+					"chance": 0.4,
+					"minQuantity": 1,
+					"maxQuantity": 2,
+					"codes": [
+						"game:ingot-copper",
+						"game:ingot-iron"
 					]
 				},
 				{
 					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
+					"chance": 0.4,
+					"minQuantity": 5,
+					"maxQuantity": 10,
 					"codes": [
-						"game:pickaxe-iron"
+						"game:arrow-iron"
 					]
 				},
 				{
 					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
+					"chance": 0.4,
+					"minQuantity": 7,
+					"maxQuantity": 15,
 					"codes": [
-						"game:blade-falx-blackbronze",
-						"game:shield-metal"
+						"game:ore-bituminouscoal"
 					]
 				},
 				{
 					"type": "item",
-					"chance": 1,
+					"chance": 0.1,
 					"minQuantity": 1,
 					"maxQuantity": 1,
 					"codes": [
-						"game:axe-felling-iron",
-						"game:blade-falx-iron"
+						"game:gear-temporal"
 					]
 				},
+				// Clothes
 				{
 					"type": "item",
-					"chance": 1,
+					"chance": 0.5,
 					"minQuantity": 1,
 					"maxQuantity": 1,
 					"codes": [
-						"game:shovel-copper"
+						"game:armor-head-lamellar-copper",
+						"game:armor-body-lamellar-copper",
+						"game:armor-legs-lamellar-copper",
+						"game:armor-head-brigandine-copper",
+						"game:armor-body-brigandine-copper",
+						"game:armor-legs-brigandine-copper",
+						"game:armor-head-chain-copper",
+						"game:armor-body-chain-copper",
+						"game:armor-legs-chain-copper",
+						"game:armor-head-scale-copper",
+						"game:armor-body-scale-copper",
+						"game:armor-legs-scale-copper",
+						"game:armor-head-plate-copper",
+						"game:armor-body-plate-copper",
+						"game:armor-legs-plate-copper"
 					]
 				},
+				// Weapons
 				{
 					"type": "item",
-					"chance": 1,
+					"chance": 0.5,
 					"minQuantity": 1,
 					"maxQuantity": 1,
 					"codes": [
-						"game:pickaxe-copper"
-					]
-				},
-				{
-					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
-					"codes": [
-						"game:blade-falx-copper"
+						"game:bow-simple",
+						"game:spear-generic-copper",
+						"game:blade-falx-copper",
+						"game:shield-woodmetal"
 					]
 				}
 			],
 			"*-tier4": [
+				// Resources Better
 				{
 					"type": "item",
-					"chance": 1,
+					"chance": 0.4,
 					"minQuantity": 1,
-					"maxQuantity": 1,
+					"maxQuantity": 2,
 					"codes": [
-						"game:shield-metal"
+						"game:ingot-meteoriciron",
+						"game:ingot-steel"
 					]
 				},
+				// Clothes
 				{
 					"type": "item",
 					"chance": 1,
 					"minQuantity": 1,
 					"maxQuantity": 1,
 					"codes": [
-						"game:pickaxe-iron"
+						"game:armor-head-brigandine-iron",
+						"game:armor-body-brigandine-iron",
+						"game:armor-legs-brigandine-iron",
+						"game:armor-head-chain-iron",
+						"game:armor-body-chain-iron",
+						"game:armor-legs-chain-iron",
+						"game:armor-head-scale-iron",
+						"game:armor-body-scale-iron",
+						"game:armor-legs-scale-iron",
+						"game:armor-head-plate-iron",
+						"game:armor-body-plate-iron",
+						"game:armor-legs-plate-iron"
 					]
 				},
+				// Weapons
 				{
 					"type": "item",
 					"chance": 1,
 					"minQuantity": 1,
 					"maxQuantity": 1,
 					"codes": [
+						"game:pickaxe-iron",
 						"game:blade-falx-blackbronze",
-						"game:shield-metal"
-					]
-				},
-				{
-					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
-					"codes": [
+						"game:shield-metal",
 						"game:axe-felling-iron",
-						"game:blade-falx-iron"
-					]
-				},
-				{
-					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
-					"codes": [
-						"game:shovel-copper"
-					]
-				},
-				{
-					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
-					"codes": [
-						"game:pickaxe-copper"
-					]
-				},
-				{
-					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
-					"codes": [
-						"game:blade-falx-copper"
+						"game:blade-falx-iron",
+						"game:shovel-iron",
+						"game:pickaxe-iron"
 					]
 				}
 			],
 			"*-tier5": [
+				// Resources Better
+				{
+					"type": "item",
+					"chance": 0.4,
+					"minQuantity": 2,
+					"maxQuantity": 4,
+					"codes": [
+						"game:ingot-steel"
+					]
+				},
+				// Clothes
 				{
 					"type": "item",
 					"chance": 1,
 					"minQuantity": 1,
 					"maxQuantity": 1,
 					"codes": [
-						"game:shield-metal"
+						"game:armor-head-brigandine-steel",
+						"game:armor-body-brigandine-steel",
+						"game:armor-legs-brigandine-steel",
+						"game:armor-head-chain-steel",
+						"game:armor-body-chain-steel",
+						"game:armor-legs-chain-steel",
+						"game:armor-head-scale-steel",
+						"game:armor-body-scale-steel",
+						"game:armor-legs-scale-steel",
+						"game:armor-head-plate-steel",
+						"game:armor-body-plate-steel",
+						"game:armor-legs-plate-steel"
+					]
+				},
+				// Weapons
+				{
+					"type": "item",
+					"chance": 1,
+					"minQuantity": 1,
+					"maxQuantity": 1,
+					"codes": [
+						"game:blade-falx-iron",
+						"game:shield-woodmetalleather",
+						"game:bow-recurve"
 					]
 				},
 				{
 					"type": "item",
 					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
+					"minQuantity": 10,
+					"maxQuantity": 20,
 					"codes": [
-						"game:pickaxe-iron"
-					]
-				},
-				{
-					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
-					"codes": [
-						"game:blade-falx-blackbronze",
-						"game:shield-metal"
-					]
-				},
-				{
-					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
-					"codes": [
-						"game:axe-felling-iron",
-						"game:blade-falx-iron"
-					]
-				},
-				{
-					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
-					"codes": [
-						"game:shovel-copper"
-					]
-				},
-				{
-					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
-					"codes": [
-						"game:pickaxe-copper"
-					]
-				},
-				{
-					"type": "item",
-					"chance": 1,
-					"minQuantity": 1,
-					"maxQuantity": 1,
-					"codes": [
-						"game:blade-falx-copper"
+						"game:arrow-iron"
 					]
 				}
 			]

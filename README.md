@@ -1,7 +1,17 @@
 # Battle Towers
 EXPERIMENTAL MOD, this mods is still in development, please do not add this to a world without backup.
 
-Add RPG Battle Towers to your world.
+Generates dangerous Battle Towers to your world, every tower will have treasures, each level of the tower has better treasures, but be careful inside this towers, take some torchs to disable spawners and preventing enemies to spawn, but don't be so lazy every second you spend inside the tower is more enemies spawning in upper levels.
+
+Available Towers:
+- Surface Towers: 2
+- Underground Towers: 0
+- Surface Hard Towers: 0
+- Underground Hard Towers: 0
+
+Future Features
+- Variant Towers (Same towers with differents aspects)
+- Heart Tower (In last tower level a heart needs to be broken, by breaking it the tower will collapse by explosions)
 
 Dependencies
 - [SpawnersAPI](https://mods.vintagestory.at/show/mod/13092)
@@ -15,4 +25,4 @@ You are free to fork the project and make your own version of Battle Towers, as 
 
 Inspirations:
 
-Battle Towers Minecraft Mod
+- Battle Towers Minecraft Mod
