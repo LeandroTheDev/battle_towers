@@ -5,7 +5,7 @@
     "value": {
       "code": "surfacetowers",
       "name": "Battle Tower / Surface",
-      "chance": 0.05,
+      "chance": 0.03,
       "schematics": [
         "surfacetowers/*"
       ],
@@ -20,7 +20,7 @@
     "value": {
       "code": "surfacehardtowers",
       "name": "Battle Hard Tower / Surface",
-      "chance": 0.01,
+      "chance": 0.005,
       "schematics": [
         "surfacehardtowers/*"
       ],

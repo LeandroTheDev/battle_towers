@@ -1,17 +1,17 @@
 {
     "torchWillDisableSpawn": true,
     "spawnOnlyInGround": false,
-    "spawnOnlyWith2Heights": false,
+    "spawnOnlyWith2Heights": true,
     "droppable": false,
     "entitiesToSpawn": [
-        "game:drifter-nightmare"
+        "game:drifter-deep"
     ],
-    "lightLevel1": 10,
-    "lightLevel2": 15,
-    "lightLevel3": 25,
-    "lightLevel4": 30,
+    "lightLevel1": 4,
+    "lightLevel2": -1,
+    "lightLevel3": -1,
+    "lightLevel4": -1,
     "maxSpawnedEntities": 6,
-    "maxEntitiesSpawnAtOnce": 2,
+    "maxEntitiesSpawnAtOnce": 3,
     "xSpawnMaxDistance": 3,
     "ySpawnMaxDistance": 2,
     "zSpawnMaxDistance": 3,

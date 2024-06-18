@@ -14,7 +14,7 @@
   {
     "op": "add",
     "path": "/variantgroups/0/states/-",
-    "value": "drifter-deeper-surfacetowers",
+    "value": "drifter-deep-surfacetowers",
     "file": "spawnersapi:blocktypes/spawner.json"
   },
   {
@@ -50,7 +50,7 @@
   {
     "op": "add",
     "path": "/variantgroups/0/states/-",
-    "value": "drifter-deeper-undergroundtowers",
+    "value": "drifter-deep-undergroundtowers",
     "file": "spawnersapi:blocktypes/spawner.json"
   },
   {

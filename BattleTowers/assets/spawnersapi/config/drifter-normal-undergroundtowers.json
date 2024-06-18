@@ -1,11 +1,12 @@
 {
     "torchWillDisableSpawn": true,
     "spawnOnlyInGround": false,
-    "spawnOnlyWith2Heights": false,
+    "spawnOnlyWith2Heights": true,
+    "droppable": false,
     "entitiesToSpawn": [
         "game:drifter-normal"
     ],
-    "lightLevel1": 8,
+    "lightLevel1": 4,
     "lightLevel2": -1,
     "lightLevel3": -1,
     "lightLevel4": -1,
