@@ -34,5 +34,41 @@
     "path": "/variantgroups/0/states/-",
     "value": "drifter-double-headed-surfacetowers",
     "file": "spawnersapi:blocktypes/spawner.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "drifter-normal-undergroundtowers",
+    "file": "spawnersapi:blocktypes/spawner.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "drifter-tainted-undergroundtowers",
+    "file": "spawnersapi:blocktypes/spawner.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "drifter-deeper-undergroundtowers",
+    "file": "spawnersapi:blocktypes/spawner.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "drifter-corrupt-undergroundtowers",
+    "file": "spawnersapi:blocktypes/spawner.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "drifter-nightmare-undergroundtowers",
+    "file": "spawnersapi:blocktypes/spawner.json"
+  },
+  {
+    "op": "add",
+    "path": "/variantgroups/0/states/-",
+    "value": "drifter-double-headed-undergroundtowers",
+    "file": "spawnersapi:blocktypes/spawner.json"
   }
 ]

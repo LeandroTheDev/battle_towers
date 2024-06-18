@@ -5,7 +5,9 @@ Generates dangerous Battle Towers to your world, every tower will have treasures
 
 Underground towers, they are consistent, the tower levels do not increase the difficulty, but the loot is always average, but make no mistake, these are not easy towers.
 
-Updating the mod: always check if [SpawnersAPI](https://mods.vintagestory.at/show/mod/13092) has updates too because this mods depends exclusivly in [SpawnersAPI](https://mods.vintagestory.at/show/mod/13092) last versions.
+Underground spawners are more sensitive to light, this means a little light in the area can cause it to lose efficiency or stop working, but they are stronger and can spawn more entities at once.
+
+Updating the mod: always check if [SpawnersAPI](https://mods.vintagestory.at/spawnersapi) has updates too because this mods depends exclusively in [SpawnersAPI](https://mods.vintagestory.at/spawnersapi) last versions.
 
 Available Towers:
 - Surface Towers: 2
@@ -18,7 +20,7 @@ Future Features
 - Heart Tower (In last tower level a heart needs to be broken, by breaking it the tower will collapse by explosions)
 
 Dependencies
-- [SpawnersAPI](https://mods.vintagestory.at/show/mod/13092)
+- [SpawnersAPI](https://mods.vintagestory.at/spawnersapi)
 
 # About Battle Towers
 Battle Towers is open source project and can easily be accessed on the github, all contents from this mod is completly free.
