@@ -5,7 +5,7 @@
     "value": {
       "code": "surfacetowers",
       "name": "Battle Tower / Surface",
-      "chance": 0.1,
+      "chance": 0.05,
       "schematics": [
         "surfacetowers/*"
       ],
@@ -20,11 +20,27 @@
     "value": {
       "code": "surfacehardtowers",
       "name": "Battle Hard Tower / Surface",
-      "chance": 0.1,
+      "chance": 0.01,
       "schematics": [
         "surfacehardtowers/*"
       ],
       "rockTypeRemapGroup": "standard"
+    },
+    "file": "game:worldgen/structures.json",
+    "side": "Server"
+  },
+  {
+    "op": "add",
+    "path": "/structures/-",
+    "value": {
+      "code": "undergroundtowers",
+      "name": "Battle Hard Tower / Underground",
+      "chance": 100.0,
+      "placement": "underground",
+      "schematics": [
+        "undergroundtowers/*"
+      ],
+      "rockTypeRemapGroup": "underground"
     },
     "file": "game:worldgen/structures.json",
     "side": "Server"
