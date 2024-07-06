@@ -34,7 +34,7 @@
     "path": "/structures/-",
     "value": {
       "code": "undergroundtowers",
-      "name": "Battle Hard Tower / Underground",
+      "name": "Battle Tower / Underground",
       "chance": 100.0,
       "placement": "underground",
       "schematics": [
