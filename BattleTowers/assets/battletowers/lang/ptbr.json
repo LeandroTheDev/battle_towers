@@ -5,14 +5,14 @@
 	"battletowers:block-loottreasures-tier4": "Vaso de Tesouro Grau 4",
 	"battletowers:block-loottreasures-tier5": "Vaso de Tesouro Grau 5",
 
-	"battletowers:stackrandomizer-battletowers-surfacetowerstier1": "Aleatorizador para torres superfice Grau 1",
-	"battletowers:stackrandomizer-battletowers-surfacetowerstier2": "Aleatorizador para torres superfice Grau 2",
-	"battletowers:stackrandomizer-battletowers-surfacetowerstier3": "Aleatorizador para torres superfice Grau 3",
-	"battletowers:stackrandomizer-battletowers-surfacetowerstier4": "Aleatorizador para torres superfice Grau 4",
-	"battletowers:stackrandomizer-battletowers-surfacetowerstier5": "Aleatorizador para torres superfice Grau 5",
-	"battletowers:stackrandomizer-battletowers-undergroundtowerstier1": "Aleatorizador para torres cavernas Grau 1",
-	"battletowers:stackrandomizer-battletowers-undergroundtowerstier2": "Aleatorizador para torres cavernas Grau 2",
-	"battletowers:stackrandomizer-battletowers-undergroundtowerstier3": "Aleatorizador para torres cavernas Grau 3",
-	"battletowers:stackrandomizer-battletowers-undergroundtowerstier4": "Aleatorizador para torres cavernas Grau 4",
-	"battletowers:stackrandomizer-battletowers-undergroundtowerstier5": "Aleatorizador para torres cavernas Grau 5"
+	"battletowers:item-stackrandomizer-battletowers-surfacetowerstier1": "Aleatorizador para torres superfice Grau 1",
+	"battletowers:item-stackrandomizer-battletowers-surfacetowerstier2": "Aleatorizador para torres superfice Grau 2",
+	"battletowers:item-stackrandomizer-battletowers-surfacetowerstier3": "Aleatorizador para torres superfice Grau 3",
+	"battletowers:item-stackrandomizer-battletowers-surfacetowerstier4": "Aleatorizador para torres superfice Grau 4",
+	"battletowers:item-stackrandomizer-battletowers-surfacetowerstier5": "Aleatorizador para torres superfice Grau 5",
+	"battletowers:item-stackrandomizer-battletowers-undergroundtowerstier1": "Aleatorizador para torres cavernas Grau 1",
+	"battletowers:item-stackrandomizer-battletowers-undergroundtowerstier2": "Aleatorizador para torres cavernas Grau 2",
+	"battletowers:item-stackrandomizer-battletowers-undergroundtowerstier3": "Aleatorizador para torres cavernas Grau 3",
+	"battletowers:item-stackrandomizer-battletowers-undergroundtowerstier4": "Aleatorizador para torres cavernas Grau 4",
+	"battletowers:item-stackrandomizer-battletowers-undergroundtowerstier5": "Aleatorizador para torres cavernas Grau 5"
 }
