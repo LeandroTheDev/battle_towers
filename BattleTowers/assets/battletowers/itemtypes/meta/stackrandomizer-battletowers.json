@@ -1,0 +1,105 @@
+{
+	code: "stackrandomizer-battletowers",
+	class: "ItemStackRandomizer",
+	variantgroups: [
+		{ code: "type", states: [
+				"surfacetowerstier1",
+				"surfacetowerstier2",
+				"surfacetowerstier3",
+				"surfacetowerstier4",
+				"surfacetowerstier5",
+				"undergroundtowerstier1",
+				"undergroundtowerstier2",
+				"undergroundtowerstier3",
+				"undergroundtowerstier4",
+				"undergroundtowerstier5"
+			] 
+		}
+	],
+	attributesByType: {
+		"*-surfacetowerstier1": {
+			handbook: { exclude: true },
+			stacks: [
+				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
+				{ type: "block", code: "displaycase-aged2", chance: 1 },
+				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			]
+		},
+		"*-surfacetowerstier2": {
+			handbook: { exclude: true },
+			stacks: [
+				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
+				{ type: "block", code: "displaycase-aged2", chance: 1 },
+				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			]
+		},
+		"*-surfacetowerstier3": {
+			handbook: { exclude: true },
+			stacks: [
+				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
+				{ type: "block", code: "displaycase-aged2", chance: 1 },
+				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			]
+		},
+		"*-surfacetowerstier4": {
+			handbook: { exclude: true },
+			stacks: [
+				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
+				{ type: "block", code: "displaycase-aged2", chance: 1 },
+				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			]
+		},
+		"*-surfacetowerstier5": {
+			handbook: { exclude: true },
+			stacks: [
+				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
+				{ type: "block", code: "displaycase-aged2", chance: 1 },
+				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			]
+		},
+		"*-undergroundtowerstier1": {
+			handbook: { exclude: true },
+			stacks: [
+				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
+				{ type: "block", code: "displaycase-aged2", chance: 1 },
+				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			]
+		},
+		"*-undergroundtowerstier2": {
+			handbook: { exclude: true },
+			stacks: [
+				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
+				{ type: "block", code: "displaycase-aged2", chance: 1 },
+				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			]
+		},
+		"*-undergroundtowerstier3": {
+			handbook: { exclude: true },
+			stacks: [
+				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
+				{ type: "block", code: "displaycase-aged2", chance: 1 },
+				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			]
+		},
+		"*-undergroundtowerstier4": {
+			handbook: { exclude: true },
+			stacks: [
+				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
+				{ type: "block", code: "displaycase-aged2", chance: 1 },
+				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			]
+		},
+		"*-undergroundtowerstier5": {
+			handbook: { exclude: true },
+			stacks: [
+				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
+				{ type: "block", code: "displaycase-aged2", chance: 1 },
+				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			]
+		}
+	},
+	maxstacksize: 1,
+	texture: { base: "item/meta/randomizer/{type}" },
+	creativeinventory: { "meta": ["*"] },
+	materialDensity: 600
+}
