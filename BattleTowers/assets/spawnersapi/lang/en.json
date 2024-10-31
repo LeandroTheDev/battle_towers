@@ -10,5 +10,8 @@
 	"spawnersapi:block-spawner-drifter-corrupt-undergroundtowers": "Corrupt Drifter Spawner Underground Tower",
 	"spawnersapi:block-spawner-drifter-deep-undergroundtowers": "Deep Drifter Spawner Underground Tower",
 	"spawnersapi:block-spawner-drifter-nightmare-undergroundtowers": "Nightmare Drifter Spawner Underground Tower",
-	"spawnersapi:block-spawner-drifter-double-headed-undergroundtowers": "Double Headed Drifter Spawner Underground Tower"
+	"spawnersapi:block-spawner-drifter-double-headed-undergroundtowers": "Double Headed Drifter Spawner Underground Tower",
+	"spawnersapi:block-spawner-drifter-corrupt-boss-undergroundtowers": "Boss Drifter Corrupt Spawner Underground Tower",
+	"spawnersapi:block-spawner-drifter-deep-boss-surfacetowers": "Boss Drifter Deep Spawner Surface Tower",
+	"spawnersapi:block-spawner-drifter-double-headed-boss-surfacetowers": "Boss Double Headed Drifter Spawner Surface Tower"
 }

@@ -3,5 +3,17 @@
 	"battletowers:block-loottreasures-tier2": "Treasure Vessel Tier 2",
 	"battletowers:block-loottreasures-tier3": "Treasure Vessel Tier 3",
 	"battletowers:block-loottreasures-tier4": "Treasure Vessel Tier 4",
-	"battletowers:block-loottreasures-tier5": "Treasure Vessel Tier 5"
+	"battletowers:block-loottreasures-tier5": "Treasure Vessel Tier 5",
+
+
+	"battletowers:stackrandomizer-battletowers-surfacetowerstier1": "Stack Randomizer Surface towers Tier 1",
+	"battletowers:stackrandomizer-battletowers-surfacetowerstier2": "Stack Randomizer Surface towers Tier 2",
+	"battletowers:stackrandomizer-battletowers-surfacetowerstier3": "Stack Randomizer Surface towers Tier 3",
+	"battletowers:stackrandomizer-battletowers-surfacetowerstier4": "Stack Randomizer Surface towers Tier 4",
+	"battletowers:stackrandomizer-battletowers-surfacetowerstier5": "Stack Randomizer Surface towers Tier 5",
+	"battletowers:stackrandomizer-battletowers-undergroundtowerstier1": "Stack Randomizer Underground towers Tier 1",
+	"battletowers:stackrandomizer-battletowers-undergroundtowerstier2": "Stack Randomizer Underground towers Tier 2",
+	"battletowers:stackrandomizer-battletowers-undergroundtowerstier3": "Stack Randomizer Underground towers Tier 3",
+	"battletowers:stackrandomizer-battletowers-undergroundtowerstier4": "Stack Randomizer Underground towers Tier 4",
+	"battletowers:stackrandomizer-battletowers-undergroundtowerstier5": "Stack Randomizer Underground towers Tier 5"
 }

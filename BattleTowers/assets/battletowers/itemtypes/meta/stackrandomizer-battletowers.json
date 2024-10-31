@@ -1,8 +1,8 @@
 {
-	code: "stackrandomizer-battletowers",
-	class: "ItemStackRandomizer",
-	variantgroups: [
-		{ code: "type", states: [
+	"code": "stackrandomizer-battletowers",
+	"class": "ItemStackRandomizer",
+	"variantgroups": [
+		{ "code": "type", "states": [
 				"surfacetowerstier1",
 				"surfacetowerstier2",
 				"surfacetowerstier3",
@@ -16,90 +16,248 @@
 			] 
 		}
 	],
-	attributesByType: {
+	"attributesByType": {
 		"*-surfacetowerstier1": {
-			handbook: { exclude: true },
-			stacks: [
-				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
-				{ type: "block", code: "displaycase-aged2", chance: 1 },
-				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			"handbook": { "exclude": true },
+			"stacks": [
+				{ "type": "block", "code": "game:flint", "quantity": { "avg": 3, "var": 2 }, "chance": 10 },
+				{ "type": "block", "code": "game:flaxfibers", "quantity": { "avg": 3, "var": 2 }, "chance": 10 },
+				{ "type": "block", "code": "game:flaxwine", "quantity": { "avg": 3, "var": 2 }, "chance": 10 },
+				{ "type": "block", "code": "game:nugget-nativecopper", "quantity": { "avg": 5, "var": 3 }, "chance": 8 },
+				{ "type": "block", "code": "game:nugget-cassiterite", "quantity": { "avg": 5, "var": 3 }, "chance": 8 },
+				{ "type": "block", "code": "game:arrow-flint", "quantity": { "avg": 10, "var": 5 }, "chance": 5 },
+				{ "type": "block", "code": "game:clothes-head-rotwalker", "chance": 1 },
+				{ "type": "block", "code": "game:clothes-foot-rotwalker", "chance": 1 },
+				{ "type": "block", "code": "game:clothes-lowerbody-rotwalker", "chance": 1 },
+				{ "type": "block", "code": "game:clothes-shoulder-rotwalker", "chance": 1 },
+				{ "type": "block", "code": "game:clothes-upperbodyover-rotwalker", "chance": 1 },
+				{ "type": "block", "code": "game:bow-simple", "chance": 3 },
+				{ "type": "block", "code": "game:spear-generic-flint", "chance": 3 },
+				{ "type": "block", "code": "game:club-scrap-scrap", "chance": 3 },
+				{ "type": "block", "code": "game:shield-woodmetal", "chance": 3 }
 			]
 		},
 		"*-surfacetowerstier2": {
-			handbook: { exclude: true },
-			stacks: [
-				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
-				{ type: "block", code: "displaycase-aged2", chance: 1 },
-				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			"handbook": { "exclude": true },
+			"stacks": [
+				{ "type": "block", "code": "game:leather-plain", "quantity": { "avg": 3, "var": 2 }, "chance": 8 },
+				{ "type": "block", "code": "game:flaxfibers", "quantity": { "avg": 5, "var": 2 }, "chance": 8 },
+				{ "type": "block", "code": "game:flaxwine", "quantity": { "avg": 5, "var": 2 }, "chance": 8 },
+				{ "type": "block", "code": "game:nugget-nativecopper", "quantity": { "avg": 10, "var": 5 }, "chance": 10 },
+				{ "type": "block", "code": "game:nugget-cassiterite", "quantity": { "avg": 10, "var": 5 }, "chance": 10 },
+				{ "type": "block", "code": "game:arrow-flint", "quantity": { "avg": 10, "var": 5 }, "chance": 10 },
+				{ "type": "block", "code": "game:ore-bituminouscoal", "quantity": { "avg": 10, "var": 5 }, "chance": 10 },
+				{ "type": "block", "code": "game:gear-temporal", "chance": 10 },
+				{ "type": "block", "code": "game:armor-head-sewn-leather", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-sewn-leather", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-sewn-leather", "chance": 1 },
+				{ "type": "block", "code": "game:hunterbackpack", "chance": 1 },
+				{ "type": "block", "code": "game:bow-simple", "chance": 3 },
+				{ "type": "block", "code": "game:spear-generic-copper", "chance": 3 },
+				{ "type": "block", "code": "game:blade-falx-copper", "chance": 3 },
+				{ "type": "block", "code": "game:shield-woodmetal", "chance": 3 }
 			]
 		},
 		"*-surfacetowerstier3": {
-			handbook: { exclude: true },
-			stacks: [
-				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
-				{ type: "block", code: "displaycase-aged2", chance: 1 },
-				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			"handbook": { "exclude": true },
+			"stacks": [
+				{ "type": "block", "code": "game:leather-plain", "quantity": { "avg": 5, "var": 3 }, "chance": 20 },
+				{ "type": "block", "code": "game:ingot-copper", "quantity": { "avg": 2, "var": 1 }, "chance": 20 },
+				{ "type": "block", "code": "game:ingot-iron", "quantity": { "avg": 2, "var": 1 }, "chance": 20 },
+				{ "type": "block", "code": "game:arrow-iron", "quantity": { "avg": 10, "var": 5 }, "chance": 15 },
+				{ "type": "block", "code": "game:ore-bituminouscoal", "quantity": { "avg": 10, "var": 5 }, "chance": 20 },
+				{ "type": "block", "code": "game:gear-temporal", "chance": 20 },
+				{ "type": "block", "code": "game:armor-head-lamellar-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-lamellar-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-lamellar-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-brigandine-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-brigandine-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-brigandine-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-chain-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-chain-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-chain-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-scale-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-scale-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-scale-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-plate-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-plate-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-plate-copper", "chance": 1 },
+				{ "type": "block", "code": "game:hunterbackpack", "chance": 5 },
+				{ "type": "block", "code": "game:bow-simple", "chance": 5 },
+				{ "type": "block", "code": "game:spear-generic-copper", "chance": 5 },
+				{ "type": "block", "code": "game:blade-falx-copper", "chance": 5 },
+				{ "type": "block", "code": "game:shield-woodmetal", "chance": 5 }
 			]
 		},
 		"*-surfacetowerstier4": {
-			handbook: { exclude: true },
-			stacks: [
-				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
-				{ type: "block", code: "displaycase-aged2", chance: 1 },
-				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			"handbook": { "exclude": true },
+			"stacks": [
+				{ "type": "block", "code": "game:ingot-meteoriciron", "quantity": { "avg": 3, "var": 2 }, "chance": 10 },
+				{ "type": "block", "code": "game:ingot-steel", "quantity": { "avg": 3, "var": 2 }, "chance": 10 },
+				{ "type": "block", "code": "game:armor-head-brigandine-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-brigandine-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-brigandine-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-chain-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-chain-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-chain-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-scale-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-scale-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-scale-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-plate-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-plate-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-plate-iron", "chance": 1 },
+				{ "type": "block", "code": "game:pickaxe-iron", "chance": 5 },
+				{ "type": "block", "code": "game:blade-falx-blackbronze", "chance": 5 },
+				{ "type": "block", "code": "game:shield-metal", "chance": 5 },
+				{ "type": "block", "code": "game:blade-falx-iron", "chance": 5 },
+				{ "type": "block", "code": "game:shovel-iron", "chance": 5 },
+				{ "type": "block", "code": "game:axe-felling-iron", "chance": 5 }
 			]
 		},
 		"*-surfacetowerstier5": {
-			handbook: { exclude: true },
-			stacks: [
-				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
-				{ type: "block", code: "displaycase-aged2", chance: 1 },
-				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			"handbook": { "exclude": true },
+			"stacks": [
+				{ "type": "block", "code": "game:ingot-steel", "quantity": { "avg": 3, "var": 2 }, "chance": 10 },
+				{ "type": "block", "code": "game:arrow-iron", "quantity": { "avg": 15, "var": 10 }, "chance": 10 },
+				{ "type": "block", "code": "game:armor-head-brigandine-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-brigandine-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-brigandine-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-chain-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-chain-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-chain-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-scale-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-scale-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-scale-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-plate-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-plate-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-plate-steel", "chance": 1 },
+				{ "type": "block", "code": "game:blade-falx-iron", "chance": 5 },
+				{ "type": "block", "code": "game:shield-woodmetalleather", "chance": 5 },
+				{ "type": "block", "code": "game:bow-recurve", "chance": 5 }
 			]
 		},
 		"*-undergroundtowerstier1": {
-			handbook: { exclude: true },
-			stacks: [
-				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
-				{ type: "block", code: "displaycase-aged2", chance: 1 },
-				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			"handbook": { "exclude": true },
+			"stacks": [
+				{ "type": "block", "code": "game:flint", "quantity": { "avg": 3, "var": 2 }, "chance": 10 },
+				{ "type": "block", "code": "game:flaxfibers", "quantity": { "avg": 3, "var": 2 }, "chance": 10 },
+				{ "type": "block", "code": "game:flaxwine", "quantity": { "avg": 3, "var": 2 }, "chance": 10 },
+				{ "type": "block", "code": "game:nugget-nativecopper", "quantity": { "avg": 5, "var": 3 }, "chance": 8 },
+				{ "type": "block", "code": "game:nugget-cassiterite", "quantity": { "avg": 5, "var": 3 }, "chance": 8 },
+				{ "type": "block", "code": "game:arrow-flint", "quantity": { "avg": 10, "var": 5 }, "chance": 5 },
+				{ "type": "block", "code": "game:clothes-head-rotwalker", "chance": 1 },
+				{ "type": "block", "code": "game:clothes-foot-rotwalker", "chance": 1 },
+				{ "type": "block", "code": "game:clothes-lowerbody-rotwalker", "chance": 1 },
+				{ "type": "block", "code": "game:clothes-shoulder-rotwalker", "chance": 1 },
+				{ "type": "block", "code": "game:clothes-upperbodyover-rotwalker", "chance": 1 },
+				{ "type": "block", "code": "game:bow-simple", "chance": 3 },
+				{ "type": "block", "code": "game:spear-generic-flint", "chance": 3 },
+				{ "type": "block", "code": "game:club-scrap-scrap", "chance": 3 },
+				{ "type": "block", "code": "game:shield-woodmetal", "chance": 3 }
 			]
 		},
 		"*-undergroundtowerstier2": {
-			handbook: { exclude: true },
-			stacks: [
-				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
-				{ type: "block", code: "displaycase-aged2", chance: 1 },
-				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			"handbook": { "exclude": true },
+			"stacks": [
+				{ "type": "block", "code": "game:leather-plain", "quantity": { "avg": 3, "var": 2 }, "chance": 8 },
+				{ "type": "block", "code": "game:flaxfibers", "quantity": { "avg": 5, "var": 2 }, "chance": 8 },
+				{ "type": "block", "code": "game:flaxwine", "quantity": { "avg": 5, "var": 2 }, "chance": 8 },
+				{ "type": "block", "code": "game:nugget-nativecopper", "quantity": { "avg": 10, "var": 5 }, "chance": 10 },
+				{ "type": "block", "code": "game:nugget-cassiterite", "quantity": { "avg": 10, "var": 5 }, "chance": 10 },
+				{ "type": "block", "code": "game:arrow-flint", "quantity": { "avg": 10, "var": 5 }, "chance": 10 },
+				{ "type": "block", "code": "game:ore-bituminouscoal", "quantity": { "avg": 10, "var": 5 }, "chance": 10 },
+				{ "type": "block", "code": "game:gear-temporal", "chance": 10 },
+				{ "type": "block", "code": "game:armor-head-sewn-leather", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-sewn-leather", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-sewn-leather", "chance": 1 },
+				{ "type": "block", "code": "game:hunterbackpack", "chance": 1 },
+				{ "type": "block", "code": "game:bow-simple", "chance": 3 },
+				{ "type": "block", "code": "game:spear-generic-copper", "chance": 3 },
+				{ "type": "block", "code": "game:blade-falx-copper", "chance": 3 },
+				{ "type": "block", "code": "game:shield-woodmetal", "chance": 3 }
 			]
 		},
 		"*-undergroundtowerstier3": {
-			handbook: { exclude: true },
-			stacks: [
-				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
-				{ type: "block", code: "displaycase-aged2", chance: 1 },
-				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			"handbook": { "exclude": true },
+			"stacks": [
+				{ "type": "block", "code": "game:leather-plain", "quantity": { "avg": 5, "var": 3 }, "chance": 20 },
+				{ "type": "block", "code": "game:ingot-copper", "quantity": { "avg": 2, "var": 1 }, "chance": 20 },
+				{ "type": "block", "code": "game:ingot-iron", "quantity": { "avg": 2, "var": 1 }, "chance": 20 },
+				{ "type": "block", "code": "game:arrow-iron", "quantity": { "avg": 10, "var": 5 }, "chance": 15 },
+				{ "type": "block", "code": "game:ore-bituminouscoal", "quantity": { "avg": 10, "var": 5 }, "chance": 20 },
+				{ "type": "block", "code": "game:gear-temporal", "chance": 20 },
+				{ "type": "block", "code": "game:armor-head-lamellar-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-lamellar-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-lamellar-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-brigandine-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-brigandine-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-brigandine-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-chain-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-chain-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-chain-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-scale-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-scale-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-scale-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-plate-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-plate-copper", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-plate-copper", "chance": 1 },
+				{ "type": "block", "code": "game:hunterbackpack", "chance": 5 },
+				{ "type": "block", "code": "game:bow-simple", "chance": 5 },
+				{ "type": "block", "code": "game:spear-generic-copper", "chance": 5 },
+				{ "type": "block", "code": "game:blade-falx-copper", "chance": 5 },
+				{ "type": "block", "code": "game:shield-woodmetal", "chance": 5 }
 			]
 		},
 		"*-undergroundtowerstier4": {
-			handbook: { exclude: true },
-			stacks: [
-				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
-				{ type: "block", code: "displaycase-aged2", chance: 1 },
-				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			"handbook": { "exclude": true },
+			"stacks": [
+				{ "type": "block", "code": "game:ingot-meteoriciron", "quantity": { "avg": 3, "var": 2 }, "chance": 10 },
+				{ "type": "block", "code": "game:ingot-steel", "quantity": { "avg": 3, "var": 2 }, "chance": 10 },
+				{ "type": "block", "code": "game:armor-head-brigandine-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-brigandine-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-brigandine-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-chain-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-chain-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-chain-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-scale-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-scale-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-scale-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-plate-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-plate-iron", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-plate-iron", "chance": 1 },
+				{ "type": "block", "code": "game:pickaxe-iron", "chance": 5 },
+				{ "type": "block", "code": "game:blade-falx-blackbronze", "chance": 5 },
+				{ "type": "block", "code": "game:shield-metal", "chance": 5 },
+				{ "type": "block", "code": "game:blade-falx-iron", "chance": 5 },
+				{ "type": "block", "code": "game:shovel-iron", "chance": 5 },
+				{ "type": "block", "code": "game:axe-felling-iron", "chance": 5 }
 			]
 		},
 		"*-undergroundtowerstier5": {
-			handbook: { exclude: true },
-			stacks: [
-				{ type: "block", code: "displaycase-aged1", quantity: { avg: 3, var: 2 }, chance: 5 },
-				{ type: "block", code: "displaycase-aged2", chance: 1 },
-				{ type: "block", code: "displaycase-aged4", chance: 1 }
+			"handbook": { "exclude": true },
+			"stacks": [
+				{ "type": "block", "code": "game:ingot-steel", "quantity": { "avg": 3, "var": 2 }, "chance": 10 },
+				{ "type": "block", "code": "game:arrow-iron", "quantity": { "avg": 15, "var": 10 }, "chance": 10 },
+				{ "type": "block", "code": "game:armor-head-brigandine-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-brigandine-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-brigandine-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-chain-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-chain-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-chain-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-scale-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-scale-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-scale-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-head-plate-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-body-plate-steel", "chance": 1 },
+				{ "type": "block", "code": "game:armor-legs-plate-steel", "chance": 1 },
+				{ "type": "block", "code": "game:blade-falx-iron", "chance": 5 },
+				{ "type": "block", "code": "game:shield-woodmetalleather", "chance": 5 },
+				{ "type": "block", "code": "game:bow-recurve", "chance": 5 }
 			]
 		}
 	},
-	maxstacksize: 1,
-	texture: { base: "item/meta/randomizer/{type}" },
-	creativeinventory: { "meta": ["*"] },
-	materialDensity: 600
+	"maxstacksize": 1,
+	"texture": { "base": "item/meta/randomizer/{type}" },
+	"creativeinventory": { "meta": ["*"] },
+	"materialDensity": 600
 }

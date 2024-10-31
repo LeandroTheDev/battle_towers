@@ -1,0 +1,39 @@
+{
+    "torchWillDisableSpawn": true,
+    "spawnOnlyInGround": false,
+    "spawnOnlyWith2Heights": false,
+    "droppable": false,
+    "freezeOnAllEntitiesSpawned": true,
+    "healthAdditional": 2.0,
+    "damageAdditional": 1.5,
+    "entitiesToSpawn": [
+        "game:drifter-corrupt"
+    ],
+    "lightLevel1": -1,
+    "lightLevel2": 100,
+    "lightLevel3": -1,
+    "lightLevel4": -1,
+    "maxSpawnedEntities": 1,
+    "maxEntitiesSpawnAtOnce": 1,
+    "xSpawnMaxDistance": 3,
+    "ySpawnMaxDistance": 2,
+    "zSpawnMaxDistance": 3,
+    "xPlayerDistanceToSpawn": 16,
+    "yPlayerDistanceToSpawn": 10,
+    "zPlayerDistanceToSpawn": 16,
+    "maxChancesToFindAValidBlockToSpawn": 10,
+    "spawnerDrops": [
+        {
+            "chance": 100,
+            "codes": [
+                {
+                    "chance": 100,
+                    "minQuantity": 1,
+                    "maxQuantity": 3,
+                    "code": "game:metal-parts"
+                }
+            ]
+        }
+    ],
+    "extendedLogs": false
+}
