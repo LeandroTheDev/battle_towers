@@ -1,0 +1,27 @@
+[
+  {
+    "op": "add",
+    "path": "/attributesByType/*-surfacetowerstier5/stacks/-",
+    "value": { "type": "block", "code": "game:statictranslocator-normal-north", "chance": 5 },
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json"
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-surfacetowerstier5/stacks/-",
+    "value": { "type": "item", "code": "translocatorengineeringredux:linker", "chance": 1 },
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json"
+  },
+
+  {
+    "op": "add",
+    "path": "/attributesByType/*-surfacetowerstier4/stacks/-",
+    "value": { "type": "block", "code": "game:statictranslocator-normal-north", "chance": 5 },
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json"
+  },
+  {
+    "op": "add",
+    "path": "/attributesByType/*-surfacetowerstier4/stacks/-",
+    "value": { "type": "item", "code": "translocatorengineeringredux:linker", "chance": 1 },
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json"
+  } 
+]

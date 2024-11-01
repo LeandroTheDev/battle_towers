@@ -1,0 +1,21 @@
+{
+  "Type": 1,
+  "TextureSize": 32,
+  "Name": "Battle Towers Translocator Engineering Patch",
+  "Version": "1.0.0",
+  "NetworkVersion": null,
+  "Description": "Add translocators and linkers to the battle towers",
+  "Website": "",
+  "CoreMod": false,
+  "ModID": "bttranslocatorsengineeringpatch",
+  "Authors": [
+    "BoboDev"
+  ],
+  "Contributors": [],
+  "Side": "Universal",
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "Dependencies": {
+    "spawnersapi": ""
+  }
+}

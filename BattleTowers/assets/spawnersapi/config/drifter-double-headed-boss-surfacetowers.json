@@ -24,13 +24,36 @@
     "maxChancesToFindAValidBlockToSpawn": 10,
     "spawnerDrops": [
         {
+            "chance": 20,
+            "codes": [
+                {
+                    "chance": 100,
+                    "minQuantity": 5,
+                    "maxQuantity": 10,
+                    "code": "game:nugget-cassiterite"
+                },
+                {
+                    "chance": 50,
+                    "minQuantity": 1,
+                    "maxQuantity": 5,
+                    "code": "game:nugget-nativecopper"
+                }
+            ]
+        },
+        {
             "chance": 100,
             "codes": [
                 {
                     "chance": 100,
+                    "minQuantity": 5,
+                    "maxQuantity": 10,
+                    "code": "game:nugget-cassiterite"
+                },
+                {
+                    "chance": 20,
                     "minQuantity": 1,
-                    "maxQuantity": 3,
-                    "code": "game:metal-parts"
+                    "maxQuantity": 2,
+                    "code": "game:gear-temporal"
                 }
             ]
         }
