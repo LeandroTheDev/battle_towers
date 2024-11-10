@@ -10,10 +10,10 @@ Underground spawners are more sensitive to light, this means a little light in t
 
 Updating the mod: always check if [SpawnersAPI](https://mods.vintagestory.at/spawnersapi) has updates too because this mods depends exclusively in [SpawnersAPI](https://mods.vintagestory.at/spawnersapi) last versions.
 
-Available Towers / Variant
-- Surface Towers: 2 - 1
-- Underground Towers: 1 - 1
-- Surface Hard Towers: 1 - 1
+Available Towers
+- Surface Towers: 2
+- Underground Towers: 1
+- Surface Hard Towers: 1
 - Underground Hard Towers: 0
 
 # About Battle Towers

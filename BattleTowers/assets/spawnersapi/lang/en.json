@@ -13,5 +13,19 @@
 	"spawnersapi:block-spawner-drifter-double-headed-undergroundtowers": "Double Headed Drifter Spawner Underground Tower",
 	"spawnersapi:block-spawner-drifter-corrupt-boss-undergroundtowers": "Boss Drifter Corrupt Spawner Underground Tower",
 	"spawnersapi:block-spawner-drifter-deep-boss-surfacetowers": "Boss Drifter Deep Spawner Surface Tower",
-	"spawnersapi:block-spawner-drifter-double-headed-boss-surfacetowers": "Boss Double Headed Drifter Spawner Surface Tower"
+	"spawnersapi:block-spawner-drifter-double-headed-boss-surfacetowers": "Boss Double Headed Drifter Spawner Surface Tower",
+
+	"battletowers:item-creature-boss-drifter-normal": "Boss Drifter",
+	"battletowers:item-creature-boss-drifter-deep": "Boss Drifter Deep",
+	"battletowers:item-creature-boss-drifter-tainted": "Boss Drifter Tainted",
+	"battletowers:item-creature-boss-drifter-corrupt": "Boss Drifter Corrupt",
+	"battletowers:item-creature-boss-drifter-nightmare": "Boss Drifter Nightmare",
+	"battletowers:item-creature-boss-drifter-double-headed": "Boss Drifter Double Headed",	
+
+	"battletowers:item-dead-creature-boss-drifter-normal": "Boss Drifter",
+	"battletowers:item-dead-creature-boss-drifter-deep": "Boss Drifter Deep",
+	"battletowers:item-dead-creature-boss-drifter-tainted": "Boss Drifter Tainted",
+	"battletowers:item-dead-creature-boss-drifter-corrupt": "Boss Drifter Corrupt",
+	"battletowers:item-dead-creature-boss-drifter-nightmare": "Boss Drifter Nightmare",
+	"battletowers:item-dead-creature-boss-drifter-double-headed": "Boss Drifter Double Headed"
 }

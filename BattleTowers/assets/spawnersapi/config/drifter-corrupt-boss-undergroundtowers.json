@@ -7,7 +7,7 @@
     "healthAdditional": 2.0,
     "damageAdditional": 1.5,
     "entitiesToSpawn": [
-        "game:drifter-corrupt"
+        "battletowers:boss-drifter-corrupt"
     ],
     "lightLevel1": -1,
     "lightLevel2": 100,

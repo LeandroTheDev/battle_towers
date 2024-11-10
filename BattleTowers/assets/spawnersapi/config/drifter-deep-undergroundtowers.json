@@ -13,7 +13,7 @@
     "lightLevel2": -1,
     "lightLevel3": -1,
     "lightLevel4": -1,
-    "maxSpawnedEntities": 6,
+    "maxSpawnedEntities": 3,
     "maxEntitiesSpawnAtOnce": 3,
     "xSpawnMaxDistance": 3,
     "ySpawnMaxDistance": 2,

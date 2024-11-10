@@ -13,5 +13,19 @@
 	"spawnersapi:block-spawner-drifter-double-headed-undergroundtowers": "Drifter de Duas Cabeças Spawner Torres Caverna",
 	"spawnersapi:block-spawner-drifter-corrupt-boss-undergroundtowers": "Chefão Drifter Corrompido Spawner Torres Caverna",
 	"spawnersapi:block-spawner-drifter-deep-boss-surfacetowers": "Chefão Drifter das Profudenzas Spawner Torres Superfice",
-	"spawnersapi:block-spawner-drifter-double-headed-boss-surfacetowers": "Chefão Drifter de Duas Cabeças Spawner Torres Superfice"
+	"spawnersapi:block-spawner-drifter-double-headed-boss-surfacetowers": "Chefão Drifter de Duas Cabeças Spawner Torres Superfice",
+
+	"battletowers:item-creature-boss-drifter-normal": "Chefão Drifter",
+	"battletowers:item-creature-boss-drifter-deep": "Chefão Drifter Deep",
+	"battletowers:item-creature-boss-drifter-tainted": "Chefão Drifter Tainted",
+	"battletowers:item-creature-boss-drifter-corrupt": "Chefão Drifter Corrupt",
+	"battletowers:item-creature-boss-drifter-nightmare": "Chefão Drifter Nightmare",
+	"battletowers:item-creature-boss-drifter-double-headed": "Chefão Drifter Double Headed",	
+
+	"battletowers:item-dead-creature-boss-drifter-normal": "Chefão Drifter",
+	"battletowers:item-dead-creature-boss-drifter-deep": "Chefão Drifter Deep",
+	"battletowers:item-dead-creature-boss-drifter-tainted": "Chefão Drifter Tainted",
+	"battletowers:item-dead-creature-boss-drifter-corrupt": "Chefão Drifter Corrupt",
+	"battletowers:item-dead-creature-boss-drifter-nightmare": "Chefão Drifter Nightmare",
+	"battletowers:item-dead-creature-boss-drifter-double-headed": "Chefão Drifter Double Headed"
 }

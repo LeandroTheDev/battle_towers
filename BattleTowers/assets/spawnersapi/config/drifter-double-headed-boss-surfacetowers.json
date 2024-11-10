@@ -7,7 +7,7 @@
     "healthAdditional": 2.0,
     "damageAdditional": 1.5,
     "entitiesToSpawn": [
-        "game:drifter-double-headed"
+        "battletowers:boss-drifter-double-headed"
     ],
     "lightLevel1": -1,
     "lightLevel2": 100,
