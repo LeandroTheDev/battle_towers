@@ -1,13 +1,13 @@
 {
   "Type": 1,
   "TextureSize": 32,
-  "Name": "Battle Towers Translocator Engineering Patch",
+  "Name": "Battle Towers No Tools Patch",
   "Version": "1.0.0",
   "NetworkVersion": null,
-  "Description": "Add translocators and linkers to the loot tables in underground and surface towers",
+  "Description": "Remove all tools from loot tables in underground and surface towers",
   "Website": "",
   "CoreMod": false,
-  "ModID": "bttranslocatorsengineeringpatch",
+  "ModID": "btnotoolspatch",
   "Authors": [
     "BoboDev"
   ],

@@ -3,4 +3,4 @@ Dependencies
 - [BattleTowers](https://mods.vintagestory.at/battletowers)
 - [Translocator Engineering](https://mods.vintagestory.at/translocatorengineeringredux)
 
-Simple add translocators and linkers into the battle towers loot tables.
+Add translocators and linkers to the loot tables in underground and surface towers.
