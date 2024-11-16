@@ -12,7 +12,7 @@
     "BoboDev"
   ],
   "Contributors": [],
-  "Side": "Universal",
+  "Side": "Server",
   "RequiredOnClient": true,
   "RequiredOnServer": true,
   "Dependencies": {
