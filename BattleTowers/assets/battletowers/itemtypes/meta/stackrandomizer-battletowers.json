@@ -36,8 +36,7 @@
 				{ "type": "item", "code": "game:hoe-flint", "chance": 1 },
 				{ "type": "item", "code": "game:bow-simple", "chance": 3 },
 				{ "type": "item", "code": "game:spear-generic-flint", "chance": 3 },
-				{ "type": "item", "code": "game:club-scrap-scrap", "chance": 3 },
-				{ "type": "item", "code": "game:shield-woodmetal", "chance": 3 }
+				{ "type": "item", "code": "game:club-scrap-scrap", "chance": 3 }
 			]
 		},
 		"*-surfacetowerstier2": {
@@ -63,8 +62,7 @@
 				{ "type": "item", "code": "game:hammer-copper", "chance": 1 },
 				{ "type": "item", "code": "game:bow-simple", "chance": 3 },
 				{ "type": "item", "code": "game:spear-generic-copper", "chance": 3 },
-				{ "type": "item", "code": "game:blade-falx-copper", "chance": 3 },
-				{ "type": "item", "code": "game:shield-woodmetal", "chance": 3 }
+				{ "type": "item", "code": "game:blade-falx-copper", "chance": 3 }
 			]
 		},
 		"*-surfacetowerstier3": {
@@ -100,8 +98,7 @@
 				{ "type": "item", "code": "game:hunterbackpack", "chance": 5 },
 				{ "type": "item", "code": "game:bow-simple", "chance": 5 },
 				{ "type": "item", "code": "game:spear-generic-copper", "chance": 5 },
-				{ "type": "item", "code": "game:blade-falx-copper", "chance": 5 },
-				{ "type": "item", "code": "game:shield-woodmetal", "chance": 5 }
+				{ "type": "item", "code": "game:blade-falx-copper", "chance": 5 }
 			]
 		},
 		"*-surfacetowerstier4": {
@@ -128,7 +125,6 @@
 				{ "type": "item", "code": "game:shovel-iron", "chance": 1 },
 				{ "type": "item", "code": "game:hammer-iron", "chance": 1 },
 				{ "type": "item", "code": "game:blade-falx-blackbronze", "chance": 5 },
-				{ "type": "item", "code": "game:shield-metal", "chance": 5 },
 				{ "type": "item", "code": "game:blade-falx-iron", "chance": 5 },
 				{ "type": "item", "code": "game:shovel-iron", "chance": 5 },
 				{ "type": "item", "code": "game:axe-felling-iron", "chance": 5 }
@@ -158,7 +154,6 @@
 				{ "type": "item", "code": "game:shovel-iron", "chance": 1 },
 				{ "type": "item", "code": "game:hammer-iron", "chance": 1 },
 				{ "type": "item", "code": "game:blade-falx-iron", "chance": 5 },
-				{ "type": "item", "code": "game:shield-woodmetalleather", "chance": 5 },
 				{ "type": "item", "code": "game:bow-recurve", "chance": 5 }
 			]
 		},
@@ -181,8 +176,7 @@
 				{ "type": "item", "code": "game:hoe-flint", "chance": 1 },
 				{ "type": "item", "code": "game:bow-simple", "chance": 3 },
 				{ "type": "item", "code": "game:spear-generic-flint", "chance": 3 },
-				{ "type": "item", "code": "game:club-scrap-scrap", "chance": 3 },
-				{ "type": "item", "code": "game:shield-woodmetal", "chance": 3 }
+				{ "type": "item", "code": "game:club-scrap-scrap", "chance": 3 }
 			]
 		},
 		"*-undergroundtowerstier2": {
@@ -208,8 +202,7 @@
 				{ "type": "item", "code": "game:hammer-copper", "chance": 1 },
 				{ "type": "item", "code": "game:bow-simple", "chance": 3 },
 				{ "type": "item", "code": "game:spear-generic-copper", "chance": 3 },
-				{ "type": "item", "code": "game:blade-falx-copper", "chance": 3 },
-				{ "type": "item", "code": "game:shield-woodmetal", "chance": 3 }
+				{ "type": "item", "code": "game:blade-falx-copper", "chance": 3 }
 			]
 		},
 		"*-undergroundtowerstier3": {
@@ -245,8 +238,7 @@
 				{ "type": "item", "code": "game:hunterbackpack", "chance": 5 },
 				{ "type": "item", "code": "game:bow-simple", "chance": 5 },
 				{ "type": "item", "code": "game:spear-generic-copper", "chance": 5 },
-				{ "type": "item", "code": "game:blade-falx-copper", "chance": 5 },
-				{ "type": "item", "code": "game:shield-woodmetal", "chance": 5 }
+				{ "type": "item", "code": "game:blade-falx-copper", "chance": 5 }
 			]
 		},
 		"*-undergroundtowerstier4": {
@@ -273,7 +265,6 @@
 				{ "type": "item", "code": "game:shovel-iron", "chance": 1 },
 				{ "type": "item", "code": "game:hammer-iron", "chance": 1 },
 				{ "type": "item", "code": "game:blade-falx-blackbronze", "chance": 5 },
-				{ "type": "item", "code": "game:shield-metal", "chance": 5 },
 				{ "type": "item", "code": "game:blade-falx-iron", "chance": 5 },
 				{ "type": "item", "code": "game:shovel-iron", "chance": 5 },
 				{ "type": "item", "code": "game:axe-felling-iron", "chance": 5 }
@@ -303,7 +294,6 @@
 				{ "type": "item", "code": "game:shovel-iron", "chance": 1 },
 				{ "type": "item", "code": "game:hammer-iron", "chance": 1 },
 				{ "type": "item", "code": "game:blade-falx-iron", "chance": 5 },
-				{ "type": "item", "code": "game:shield-woodmetalleather", "chance": 5 },
 				{ "type": "item", "code": "game:bow-recurve", "chance": 5 }
 			]
 		}

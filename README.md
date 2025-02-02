@@ -16,6 +16,28 @@ Available Towers
 - Surface Hard Towers: 1
 - Underground Hard Towers: 0
 
+### Chance To Spawn
+Because this a content mod you will need to unzip the mod and change it inside the assets folder, for changing the spawn chance in surface towers go to ``assets/battletowers/patches/survival-worldgen-structures.json``, the same works for underground and surface towers
+```json
+...
+{
+    "op": "add",
+    "path": "/structures/-",
+    "value": {
+      "code": "surfacetowers",
+      "name": "Battle Tower / Surface",
+      "chance": 0.03, // Increase this for more surface towers decrease for less
+      "schematics": [
+        "surfacetowers/*"
+      ],
+      "rockTypeRemapGroup": "standard"
+    },
+    "file": "game:worldgen/structures.json",
+    "side": "Server"
+  },
+...
+```
+
 # About Battle Towers
 Battle Towers is open source project and can easily be accessed on the github, all contents from this mod is completly free.
 
