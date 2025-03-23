@@ -16,27 +16,37 @@ Available Towers
 - Surface Hard Towers: 1
 - Underground Hard Towers: 0
 
-### Chance To Spawn
+## Chance To Spawn
 Because this a content mod you will need to unzip the mod and change it inside the assets folder, for changing the spawn chance in surface towers go to ``assets/battletowers/patches/survival-worldgen-structures.json``, the same works for underground and surface towers
 ```json
 ...
 {
-    "op": "add",
-    "path": "/structures/-",
-    "value": {
-      "code": "surfacetowers",
-      "name": "Battle Tower / Surface",
-      "chance": 0.03, // Increase this for more surface towers decrease for less
-      "schematics": [
-        "surfacetowers/*"
-      ],
-      "rockTypeRemapGroup": "standard"
-    },
-    "file": "game:worldgen/structures.json",
-    "side": "Server"
+  "op": "add",
+  "path": "/structures/-",
+  "value": {
+    "code": "surfacetowers",
+    "name": "Battle Tower / Surface",
+    "chance": 0.03, // Increase this for more surface towers decrease for less
+    "schematics": [
+    "surfacetowers/*"
+    ],
+    "rockTypeRemapGroup": "standard"
   },
+  "file": "game:worldgen/structures.json",
+  "side": "Server"
+},
 ...
 ```
+## Changing entities that spawn
+Because this a content mod you will need to unzip the mod and change it inside the assets folder, for changing the entities that will spawn in surface spawners go to ``assets/spawnersapi/config/drifter-normal-surfacetowers.json`` (There is more spawners for surface, you will also need to change each one manually)
+```json
+...
+"entitiesToSpawn": [
+  "game:drifter-deep" // Here is the entity id that will spawn
+],
+...
+```
+### You also can create a mod patch check a template here: [BTEntities](https://github.com/LeandroTheDev/battle_towers/tree/main/BTEntities)
 
 # About Battle Towers
 Battle Towers is open source project and can easily be accessed on the github, all contents from this mod is completly free.
