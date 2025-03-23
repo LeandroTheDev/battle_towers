@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/entitiesToSpawn",
+    "value": [
+      "wrustbound:wrotwalker-blackguard"
+    ],
+    "file": "spawnersapi:config/drifter-double-headed-undergroundtowers.json",
+    "side": "Server"
+  }
+]

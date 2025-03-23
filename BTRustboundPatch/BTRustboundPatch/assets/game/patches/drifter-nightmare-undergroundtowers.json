@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/entitiesToSpawn",
+    "value": [
+      "wrustbound:wrotwalker-deep",
+      "wrustbound:wrotwalker-blackguard"
+    ],
+    "file": "spawnersapi:config/drifter-nightmare-undergroundtowers.json",
+    "side": "Server"
+  }
+]

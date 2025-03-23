@@ -1,0 +1,13 @@
+[
+  {
+    "op": "replace",
+    "path": "/entitiesToSpawn",
+    "value": [
+      "wrustbound:wrotwalker-normal",
+      "wrustbound:wrotwalker-normal",
+      "wrustbound:wrotwalker-deep"
+    ],
+    "file": "spawnersapi:config/drifter-deep-undergroundtowers.json",
+    "side": "Server"
+  }
+]

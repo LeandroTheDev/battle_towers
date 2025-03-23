@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/entitiesToSpawn",
+    "value": [
+      "wrustbound:rustborn-tier5"
+    ],
+    "file": "spawnersapi:config/drifter-nightmare-surfacetowers.json",
+    "side": "Server"
+  }
+]

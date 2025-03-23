@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/entitiesToSpawn",
+    "value": [
+      "wrustbound:rustborn-tier4"
+    ],
+    "file": "spawnersapi:config/drifter-corrupt-surfacetowers.json",
+    "side": "Server"
+  }
+]

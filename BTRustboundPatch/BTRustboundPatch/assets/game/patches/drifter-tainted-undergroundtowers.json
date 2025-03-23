@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/entitiesToSpawn",
+    "value": [
+      "wrustbound:wrotwalker-deep"
+    ],
+    "file": "spawnersapi:config/drifter-tainted-undergroundtowers.json",
+    "side": "Server"
+  }
+]

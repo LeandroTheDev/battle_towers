@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/entitiesToSpawn",
+    "value": [
+      "wrustbound:rustborn-tier2"
+    ],
+    "file": "spawnersapi:config/drifter-deep-boss-surfacetowers.json",
+    "side": "Server"
+  }
+]

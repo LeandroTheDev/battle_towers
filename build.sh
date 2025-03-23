@@ -13,3 +13,7 @@ cp -r ./BTTranslocatorEngineeringPatch/BTTranslocatorEngineeringPatch/* "$VINTAG
 rm -rf "$VINTAGE_STORY/Mods/btentities"
 mkdir -p "$VINTAGE_STORY/Mods/btentities"
 cp -r ./BTEntities/BTEntities/* "$VINTAGE_STORY/Mods/btentities"
+
+rm -rf "$VINTAGE_STORY/Mods/btrustboundpatch"
+mkdir -p "$VINTAGE_STORY/Mods/btrustboundpatch"
+cp -r ./BTRustboundPatch/BTRustboundPatch/* "$VINTAGE_STORY/Mods/btrustboundpatch"

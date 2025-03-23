@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/entitiesToSpawn",
+    "value": [
+      "wrustbound:rustborn-tier6"
+    ],
+    "file": "spawnersapi:config/drifter-double-headed-boss-surfacetowers.json",
+    "side": "Server"
+  }
+]

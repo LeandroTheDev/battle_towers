@@ -1,0 +1,21 @@
+{
+  "Type": 1,
+  "TextureSize": 32,
+  "Name": "Battle Towers Rustbound Patch",
+  "Version": "1.0.0",
+  "NetworkVersion": null,
+  "Description": "Change entities that will spawn in battle towers to Rustbound entities",
+  "Website": "https://github.com/LeandroTheDev/battle_towers",
+  "CoreMod": false,
+  "ModID": "btrustboundpatch",
+  "Authors": [
+    "BoboDev"
+  ],
+  "Contributors": [],
+  "Side": "Server",
+  "RequiredOnClient": false,
+  "RequiredOnServer": true,
+  "Dependencies": {
+    "battletowers": ""
+  }
+}

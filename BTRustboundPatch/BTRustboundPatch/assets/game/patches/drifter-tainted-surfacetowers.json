@@ -1,0 +1,11 @@
+[
+  {
+    "op": "replace",
+    "path": "/entitiesToSpawn",
+    "value": [
+      "wrustbound:rustborn-tier3"
+    ],
+    "file": "spawnersapi:config/drifter-tainted-surfacetowers.json",
+    "side": "Server"
+  }
+]
