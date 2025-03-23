@@ -37,12 +37,6 @@
   },
   {
     "op": "remove",
-    "path": "/attributesByType/*-surfacetowerstier1/stacks/11",
-    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
-    "side": "Server"
-  },
-  {
-    "op": "remove",
     "path": "/attributesByType/*-surfacetowerstier2/stacks/12",
     "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
     "side": "Server"
@@ -97,12 +91,6 @@
   },
   {
     "op": "remove",
-    "path": "/attributesByType/*-surfacetowerstier2/stacks/12",
-    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
-    "side": "Server"
-  },
-  {
-    "op": "remove",
     "path": "/attributesByType/*-surfacetowerstier3/stacks/21",
     "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
     "side": "Server"
@@ -162,105 +150,62 @@
     "side": "Server"
   },
   {
-    "op": "replace",
-    "path": "/attributesByType/*-surfacetowerstier3/stacks/21",
-    "value": {
-      "type": "item",
-      "code": "game:hunterbackpack",
-      "chance": 5
-    },
-    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
-    "side": "Server"
-  },
-  {
-    "op": "replace",
-    "path": "/attributesByType/*-surfacetowerstier4/stacks",
-    "value": [
-      {
-        "type": "item",
-        "code": "game:ingot-meteoriciron",
-        "quantity": {
-          "avg": 3,
-          "var": 2
-        },
-        "chance": 20
-      },
-      {
-        "type": "item",
-        "code": "game:ingot-steel",
-        "quantity": {
-          "avg": 3,
-          "var": 2
-        },
-        "chance": 20
-      },
-      {
-        "type": "item",
-        "code": "game:armor-head-brigandine-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-body-brigandine-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-legs-brigandine-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-head-chain-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-body-chain-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-legs-chain-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-head-scale-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-body-scale-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-legs-scale-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-head-plate-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-body-plate-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-legs-plate-iron",
-        "chance": 1
-      }
-    ],
+    "op": "remove",
+    "path": "/attributesByType/*-surfacetowerstier4/stacks/14",
     "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
     "side": "Server"
   },
   {
     "op": "remove",
-    "path": "/attributesByType/*-surfacetowerstier5/stacks/14",
+    "path": "/attributesByType/*-surfacetowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-surfacetowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-surfacetowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-surfacetowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-surfacetowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-surfacetowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-surfacetowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-surfacetowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-surfacetowerstier4/stacks/14",
     "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
     "side": "Server"
   },
@@ -350,12 +295,6 @@
   },
   {
     "op": "remove",
-    "path": "/attributesByType/*-undergroundtowerstier1/stacks/11",
-    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
-    "side": "Server"
-  },
-  {
-    "op": "remove",
     "path": "/attributesByType/*-undergroundtowerstier2/stacks/12",
     "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
     "side": "Server"
@@ -410,12 +349,6 @@
   },
   {
     "op": "remove",
-    "path": "/attributesByType/*-undergroundtowerstier2/stacks/12",
-    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
-    "side": "Server"
-  },
-  {
-    "op": "remove",
     "path": "/attributesByType/*-undergroundtowerstier3/stacks/21",
     "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
     "side": "Server"
@@ -475,105 +408,62 @@
     "side": "Server"
   },
   {
-    "op": "replace",
-    "path": "/attributesByType/*-undergroundtowerstier3/stacks/21",
-    "value": {
-      "type": "item",
-      "code": "game:hunterbackpack",
-      "chance": 5
-    },
-    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
-    "side": "Server"
-  },
-  {
-    "op": "replace",
-    "path": "/attributesByType/*-undergroundtowerstier4/stacks",
-    "value": [
-      {
-        "type": "item",
-        "code": "game:ingot-meteoriciron",
-        "quantity": {
-          "avg": 3,
-          "var": 2
-        },
-        "chance": 20
-      },
-      {
-        "type": "item",
-        "code": "game:ingot-steel",
-        "quantity": {
-          "avg": 3,
-          "var": 2
-        },
-        "chance": 20
-      },
-      {
-        "type": "item",
-        "code": "game:armor-head-brigandine-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-body-brigandine-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-legs-brigandine-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-head-chain-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-body-chain-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-legs-chain-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-head-scale-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-body-scale-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-legs-scale-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-head-plate-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-body-plate-iron",
-        "chance": 1
-      },
-      {
-        "type": "item",
-        "code": "game:armor-legs-plate-iron",
-        "chance": 1
-      }
-    ],
+    "op": "remove",
+    "path": "/attributesByType/*-undergroundtowerstier4/stacks/14",
     "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
     "side": "Server"
   },
   {
     "op": "remove",
-    "path": "/attributesByType/*-undergroundtowerstier5/stacks/14",
+    "path": "/attributesByType/*-undergroundtowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-undergroundtowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-undergroundtowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-undergroundtowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-undergroundtowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-undergroundtowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-undergroundtowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-undergroundtowerstier4/stacks/14",
+    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
+    "side": "Server"
+  },
+  {
+    "op": "remove",
+    "path": "/attributesByType/*-undergroundtowerstier4/stacks/14",
     "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
     "side": "Server"
   },

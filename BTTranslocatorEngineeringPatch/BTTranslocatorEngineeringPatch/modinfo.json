@@ -5,7 +5,7 @@
   "Version": "1.0.0",
   "NetworkVersion": null,
   "Description": "Add translocators and linkers to the loot tables in underground and surface towers",
-  "Website": "",
+  "Website": "https://github.com/LeandroTheDev/battle_towers",
   "CoreMod": false,
   "ModID": "bttranslocatorsengineeringpatch",
   "Authors": [
@@ -13,7 +13,7 @@
   ],
   "Contributors": [],
   "Side": "Server",
-  "RequiredOnClient": true,
+  "RequiredOnClient": false,
   "RequiredOnServer": true,
   "Dependencies": {
     "battletowers": ""
