@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/entitiesToSpawn",
+    "value": [
+      "game:shiver-surface",
+      "game:bowtorn-surface"
+    ],
+    "file": "spawnersapi:config/drifter-normal-surfacetowers.json",
+    "side": "Server"
+  }
+]

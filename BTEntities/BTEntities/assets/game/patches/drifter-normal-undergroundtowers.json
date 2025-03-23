@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/entitiesToSpawn",
+    "value": [
+      "game:shiver-deep",
+      "game:bowtorn-deep"
+    ],
+    "file": "spawnersapi:config/drifter-normal-undergroundtowers.json",
+    "side": "Server"
+  }
+]

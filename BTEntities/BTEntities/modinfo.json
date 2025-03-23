@@ -1,0 +1,21 @@
+{
+  "Type": 1,
+  "TextureSize": 32,
+  "Name": "Battle Towers Entities Template Patch",
+  "Version": "1.0.0",
+  "NetworkVersion": null,
+  "Description": "Change entities that will spawn in battle towers",
+  "Website": "https://github.com/LeandroTheDev/battle_towers",
+  "CoreMod": false,
+  "ModID": "btentitiespatch",
+  "Authors": [
+    "BoboDev"
+  ],
+  "Contributors": [],
+  "Side": "Server",
+  "RequiredOnClient": false,
+  "RequiredOnServer": true,
+  "Dependencies": {
+    "battletowers": ""
+  }
+}

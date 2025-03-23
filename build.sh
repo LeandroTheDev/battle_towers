@@ -9,3 +9,7 @@ cp -r ./BTNoToolsPatch/BTNoToolsPatch/* "$VINTAGE_STORY/Mods/btnotoolspatch"
 rm -rf "$VINTAGE_STORY/Mods/bttranslocatorengineeringpatch"
 mkdir -p "$VINTAGE_STORY/Mods/bttranslocatorengineeringpatch"
 cp -r ./BTTranslocatorEngineeringPatch/BTTranslocatorEngineeringPatch/* "$VINTAGE_STORY/Mods/bttranslocatorengineeringpatch"
+
+rm -rf "$VINTAGE_STORY/Mods/btentities"
+mkdir -p "$VINTAGE_STORY/Mods/btentities"
+cp -r ./BTEntities/BTEntities/* "$VINTAGE_STORY/Mods/btentities"
