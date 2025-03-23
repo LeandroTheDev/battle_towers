@@ -2,6 +2,11 @@
 Dependencies
 - [SpawnersAPI](https://mods.vintagestory.at/spawnersapi)
 
+Useful Patches
+- [Translocator Engineering](https://mods.vintagestory.at/show/mod/15675)
+- [No Tools](https://mods.vintagestory.at/show/mod/15782)
+- [Wilderlands Rustbound](https://mods.vintagestory.at/show/mod/21610)
+
 Generates dangerous Battle Towers to your world, every tower will have treasures, each level of the tower has better treasures, but be careful inside this towers, take some torchs to disable spawners and preventing enemies to spawn, but don't be so lazy every second you spend inside the tower is more enemies spawning in upper levels.
 
 Underground towers, they are consistent, the tower levels do not increase the difficulty, but the loot is always average, but make no mistake, these are not easy towers.
