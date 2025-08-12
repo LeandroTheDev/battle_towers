@@ -1,18 +1,13 @@
 {
-  "TextureSize": 32,
+  "Type": "content",
   "Name": "Battle Towers",
   "Version": "1.0.7",
-  "NetworkVersion": null,
   "Description": "Create towers and underworld towers to fight and conquer",
-  "Website": "",
   "ModID": "battletowers",
   "Authors": [
     "BoboDev"
   ],
-  "Contributors": [],
   "Side": "Universal",
-  "RequiredOnClient": true,
-  "RequiredOnServer": true,
   "Dependencies": {
     "spawnersapi": ""
   }
