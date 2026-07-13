@@ -6,6 +6,8 @@
       "code": "surfacetowers",
       "name": "Battle Tower / Surface",
       "chance": 0.03,
+      "group": "surfacetowers",
+      "minGroupDistance": 1000,
       "schematics": [
         "surfacetowers/*"
       ],
@@ -21,6 +23,8 @@
       "code": "surfacehardtowers",
       "name": "Battle Hard Tower / Surface",
       "chance": 0.005,
+      "group": "surfacehardtowers",
+      "minGroupDistance": 1000,
       "schematics": [
         "surfacehardtowers/*"
       ],
@@ -36,6 +40,8 @@
       "code": "undergroundtowers",
       "name": "Battle Tower / Underground",
       "chance": 100.0,
+      "group": "undergroundtowers",
+      "minGroupDistance": 50,
       "placement": "underground",
       "schematics": [
         "undergroundtowers/*"

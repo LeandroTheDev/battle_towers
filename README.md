@@ -15,11 +15,20 @@ Underground spawners are more sensitive to light, this means a little light in t
 
 Updating the mod: always check if [SpawnersAPI](https://mods.vintagestory.at/spawnersapi) has updates too because this mods depends exclusively in [SpawnersAPI](https://mods.vintagestory.at/spawnersapi) last versions.
 
+## Creating Battle Towers
+I made an explanatory video on how to create your own battle tower for the mod; the video shows how to submit it so I can officially add it to the mod, but you can also create your own patch if you don't want to rely on me.
+
+[Video Tutorial](https://www.youtube.com/watch?v=Ofd02v13D4I)
+
 Available Towers
 - Surface Towers: 2
+- > Variations: 2
 - Underground Towers: 1
+- > Variations: 0
 - Surface Hard Towers: 1
+- > Variations: 0
 - Underground Hard Towers: 0
+- > Variations: 0
 
 ## Chance To Spawn
 Because this a content mod you will need to unzip the mod and change it inside the assets folder, for changing the spawn chance in surface towers go to ``assets/battletowers/patches/survival-worldgen-structures.json``, the same works for underground and surface towers
