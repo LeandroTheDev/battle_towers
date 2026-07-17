@@ -4,7 +4,7 @@
     "spawnOnlyWith2Heights": false,
     "droppable": false,
     "freezeOnAllEntitiesSpawned": false,
-    "healthAdditional": 1.0,
+    "healthAdditional": 0.5,
     "damageAdditional": 1.0,
     "entitiesToSpawn": [
         "game:drifter-nightmare"

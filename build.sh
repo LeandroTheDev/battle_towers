@@ -27,3 +27,7 @@ cp -r ./BTEntities/BTEntities/* "$VINTAGE_STORY_MODS/btentities"
 rm -rf "$VINTAGE_STORY_MODS/btrustboundpatch"
 mkdir -p "$VINTAGE_STORY_MODS/btrustboundpatch"
 cp -r ./BTRustboundPatch/BTRustboundPatch/* "$VINTAGE_STORY_MODS/btrustboundpatch"
+
+rm -rf "$VINTAGE_STORY_MODS/btnoarmorspatch"
+mkdir -p "$VINTAGE_STORY_MODS/btnoarmorspatch"
+cp -r ./BTNoArmorsPatch/BTNoArmorsPatch/* "$VINTAGE_STORY_MODS/btnoarmorspatch"

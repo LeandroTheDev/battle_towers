@@ -55,42 +55,6 @@
   },
   {
     "op": "remove",
-    "path": "/attributesByType/*-surfacetowerstier2/stacks/12",
-    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
-    "side": "Server"
-  },
-  {
-    "op": "remove",
-    "path": "/attributesByType/*-surfacetowerstier2/stacks/12",
-    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
-    "side": "Server"
-  },
-  {
-    "op": "remove",
-    "path": "/attributesByType/*-surfacetowerstier2/stacks/12",
-    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
-    "side": "Server"
-  },
-  {
-    "op": "remove",
-    "path": "/attributesByType/*-surfacetowerstier2/stacks/12",
-    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
-    "side": "Server"
-  },
-  {
-    "op": "remove",
-    "path": "/attributesByType/*-surfacetowerstier2/stacks/12",
-    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
-    "side": "Server"
-  },
-  {
-    "op": "remove",
-    "path": "/attributesByType/*-surfacetowerstier2/stacks/12",
-    "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
-    "side": "Server"
-  },
-  {
-    "op": "remove",
     "path": "/attributesByType/*-surfacetowerstier3/stacks/21",
     "file": "battletowers:itemtypes/meta/stackrandomizer-battletowers.json",
     "side": "Server"
