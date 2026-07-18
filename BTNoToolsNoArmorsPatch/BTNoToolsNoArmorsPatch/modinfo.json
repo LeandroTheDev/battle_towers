@@ -4,7 +4,7 @@
   "Name": "Battle Towers No Tools No Armors Patch",
   "Version": "1.0.0",
   "Description": "Remove all tools, weapons and armors from loot tables in underground and surface towers",
-  "ModID": "btnotoolsnoarmorspatch",
+  "ModID": "btnotoolsnoarmorpatch",
   "Authors": [
     "BoboDev"
   ],
@@ -13,3 +13,4 @@
     "battletowers": ""
   }
 }
+
