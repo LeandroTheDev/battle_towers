@@ -1,20 +1,14 @@
 {
-  "Type": 1,
+  "Type": "content",
   "TextureSize": 32,
   "Name": "Battle Towers No Tools Patch",
   "Version": "1.0.2",
-  "NetworkVersion": null,
   "Description": "Remove all tools from loot tables in underground and surface towers",
-  "Website": "https://github.com/LeandroTheDev/battle_towers",
-  "CoreMod": false,
   "ModID": "btnotoolspatch",
   "Authors": [
     "BoboDev"
   ],
-  "Contributors": [],
   "Side": "Server",
-  "RequiredOnClient": false,
-  "RequiredOnServer": true,
   "Dependencies": {
     "battletowers": ""
   }
