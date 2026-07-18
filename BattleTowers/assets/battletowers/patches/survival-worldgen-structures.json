@@ -7,7 +7,7 @@
       "name": "Battle Tower / Surface",
       "chance": 0.03,
       "group": "surfacetowers",
-      "minGroupDistance": 1000,
+      "minGroupDistance": 200,
       "schematics": [
         "surfacetowers/*"
       ],
@@ -39,7 +39,7 @@
     "value": {
       "code": "undergroundtowers",
       "name": "Battle Tower / Underground",
-      "chance": 100.0,
+      "chance": 200.0,
       "group": "undergroundtowers",
       "minGroupDistance": 50,
       "placement": "underground",

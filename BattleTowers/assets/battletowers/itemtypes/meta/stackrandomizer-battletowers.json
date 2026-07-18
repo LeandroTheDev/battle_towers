@@ -66,7 +66,8 @@
 				{ "type": "item", "code": "game:rope", "quantity": { "avg": 2, "var": 1 }, "chance": 10 },
 				{ "type": "item", "code": "game:beeswax", "quantity": { "avg": 3, "var": 2 }, "chance": 8 },
 				{ "type": "item", "code": "game:bandage-clean", "quantity": { "avg": 2, "var": 1 }, "chance": 10 },
-				{ "type": "item", "code": "game:poultice-linen-horsetail", "chance": 5 }
+				{ "type": "item", "code": "game:poultice-linen-horsetail", "chance": 5 },
+				{ "type": "item", "code": "game:nugget-galena", "quantity": { "avg": 5, "var": 3 }, "chance": 8 }
 			]
 		},
 		"*-surfacetowerstier3": {
@@ -106,7 +107,11 @@
 				{ "type": "item", "code": "game:cloth-plain", "quantity": { "avg": 3, "var": 2 }, "chance": 10 },
 				{ "type": "item", "code": "game:beeswax", "quantity": { "avg": 3, "var": 2 }, "chance": 8 },
 				{ "type": "item", "code": "game:poultice-linen-honey-sulfur", "chance": 8 },
-				{ "type": "item", "code": "game:bread-rye-perfect", "quantity": { "avg": 2, "var": 1 }, "chance": 8 }
+				{ "type": "item", "code": "game:bread-rye-perfect", "quantity": { "avg": 2, "var": 1 }, "chance": 8 },
+				{ "type": "item", "code": "game:nugget-galena", "quantity": { "avg": 8, "var": 4 }, "chance": 10 },
+				{ "type": "item", "code": "game:nugget-hematite", "quantity": { "avg": 8, "var": 4 }, "chance": 10 },
+				{ "type": "item", "code": "game:nugget-limonite", "quantity": { "avg": 8, "var": 4 }, "chance": 10 },
+				{ "type": "item", "code": "game:nugget-magnetite", "quantity": { "avg": 8, "var": 4 }, "chance": 10 }
 			]
 		},
 		"*-surfacetowerstier4": {
@@ -137,7 +142,11 @@
 				{ "type": "item", "code": "game:shovel-iron", "chance": 5 },
 				{ "type": "item", "code": "game:axe-felling-iron", "chance": 5 },
 				{ "type": "item", "code": "game:cloth-plain", "quantity": { "avg": 3, "var": 2 }, "chance": 8 },
-				{ "type": "item", "code": "game:poultice-linen-honey-sulfur", "chance": 10 }
+				{ "type": "item", "code": "game:poultice-linen-honey-sulfur", "chance": 10 },
+				{ "type": "item", "code": "game:nugget-hematite", "quantity": { "avg": 10, "var": 5 }, "chance": 10 },
+				{ "type": "item", "code": "game:nugget-limonite", "quantity": { "avg": 10, "var": 5 }, "chance": 10 },
+				{ "type": "item", "code": "game:nugget-magnetite", "quantity": { "avg": 10, "var": 5 }, "chance": 10 },
+				{ "type": "item", "code": "game:nugget-chromite", "quantity": { "avg": 5, "var": 3 }, "chance": 5 }
 			]
 		},
 		"*-surfacetowerstier5": {
@@ -165,7 +174,9 @@
 				{ "type": "item", "code": "game:hammer-iron", "chance": 1 },
 				{ "type": "item", "code": "game:blade-falx-iron", "chance": 5 },
 				{ "type": "item", "code": "game:bow-recurve", "chance": 5 },
-				{ "type": "item", "code": "game:poultice-linen-honey-sulfur", "chance": 10 }
+				{ "type": "item", "code": "game:poultice-linen-honey-sulfur", "chance": 10 },
+				{ "type": "item", "code": "game:nugget-chromite", "quantity": { "avg": 8, "var": 4 }, "chance": 10 },
+				{ "type": "item", "code": "game:nugget-ilmenite", "quantity": { "avg": 5, "var": 3 }, "chance": 8 }
 			]
 		},
 		"*-undergroundtowerstier1": {
@@ -213,7 +224,8 @@
 				{ "type": "item", "code": "game:hammer-copper", "chance": 1 },
 				{ "type": "item", "code": "game:bow-simple", "chance": 3 },
 				{ "type": "item", "code": "game:spear-generic-copper", "chance": 3 },
-				{ "type": "item", "code": "game:blade-falx-copper", "chance": 3 }
+				{ "type": "item", "code": "game:blade-falx-copper", "chance": 3 },
+				{ "type": "item", "code": "game:nugget-galena", "quantity": { "avg": 10, "var": 6 }, "chance": 8 }
 			]
 		},
 		"*-undergroundtowerstier3": {
@@ -249,7 +261,11 @@
 				{ "type": "item", "code": "game:hunterbackpack", "chance": 5 },
 				{ "type": "item", "code": "game:bow-simple", "chance": 5 },
 				{ "type": "item", "code": "game:spear-generic-copper", "chance": 5 },
-				{ "type": "item", "code": "game:blade-falx-copper", "chance": 5 }
+				{ "type": "item", "code": "game:blade-falx-copper", "chance": 5 },
+				{ "type": "item", "code": "game:nugget-galena", "quantity": { "avg": 16, "var": 8 }, "chance": 10 },
+				{ "type": "item", "code": "game:nugget-hematite", "quantity": { "avg": 16, "var": 8 }, "chance": 10 },
+				{ "type": "item", "code": "game:nugget-limonite", "quantity": { "avg": 16, "var": 8 }, "chance": 10 },
+				{ "type": "item", "code": "game:nugget-magnetite", "quantity": { "avg": 16, "var": 8 }, "chance": 10 }
 			]
 		},
 		"*-undergroundtowerstier4": {
@@ -278,7 +294,11 @@
 				{ "type": "item", "code": "game:blade-falx-blackbronze", "chance": 5 },
 				{ "type": "item", "code": "game:blade-falx-iron", "chance": 5 },
 				{ "type": "item", "code": "game:shovel-iron", "chance": 5 },
-				{ "type": "item", "code": "game:axe-felling-iron", "chance": 5 }
+				{ "type": "item", "code": "game:axe-felling-iron", "chance": 5 },
+				{ "type": "item", "code": "game:nugget-hematite", "quantity": { "avg": 20, "var": 10 }, "chance": 10 },
+				{ "type": "item", "code": "game:nugget-limonite", "quantity": { "avg": 20, "var": 10 }, "chance": 10 },
+				{ "type": "item", "code": "game:nugget-magnetite", "quantity": { "avg": 20, "var": 10 }, "chance": 10 },
+				{ "type": "item", "code": "game:nugget-chromite", "quantity": { "avg": 10, "var": 6 }, "chance": 5 }
 			]
 		},
 		"*-undergroundtowerstier5": {
@@ -305,7 +325,9 @@
 				{ "type": "item", "code": "game:shovel-iron", "chance": 1 },
 				{ "type": "item", "code": "game:hammer-iron", "chance": 1 },
 				{ "type": "item", "code": "game:blade-falx-iron", "chance": 5 },
-				{ "type": "item", "code": "game:bow-recurve", "chance": 5 }
+				{ "type": "item", "code": "game:bow-recurve", "chance": 5 },
+				{ "type": "item", "code": "game:nugget-chromite", "quantity": { "avg": 16, "var": 8 }, "chance": 10 },
+				{ "type": "item", "code": "game:nugget-ilmenite", "quantity": { "avg": 10, "var": 6 }, "chance": 8 }
 			]
 		}
 	},
